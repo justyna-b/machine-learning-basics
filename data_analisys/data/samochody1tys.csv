@@ -1,0 +1,1001 @@
+id,marka,model,rok_produkcji,rodzaj_silnika,pojemnosc_silnika,przebieg,cena,wojewodztwo
+0,Nissan,X-Trail III,2014,Diesel,1600.0,160000.0,75900.0,Dolnośląskie
+1,BMW,X1 E84,2012,Diesel,2000.0,149000.0,70900.0,Świętokrzyskie
+2,Opel,Zafira A,2004,Benzyna+CNG,1600.0,99000.0,9800.0,Opolskie
+3,Hyundai,i10 I,2008,Benzyna,1100.0,93000.0,11900.0,Łódzkie
+4,Volkswagen,CC,2010,Diesel,1968.0,127428.0,49900.0,Wielkopolskie
+5,Fiat,500,2014,Elektryczny,1.0,36800.0,74200.0,Śląskie
+6,Nissan,X-Trail I,2004,Diesel,2200.0,174000.0,23200.0,Dolnośląskie
+7,Seat,Toledo II,2000,Benzyna,1800.0,140700.0,8150.0,Pomorskie
+8,Volkswagen,CC,2014,Diesel,1968.0,52000.0,97000.0,Pomorskie
+9,Nissan,Juke,2016,Benzyna,1197.0,18000.0,56900.0,Mazowieckie
+10,Toyota,Corolla Seria,2015,Benzyna,1329.0,26415.0,53000.0,Lubuskie
+11,BMW,Seria 5 E39,2002,Diesel,3000.0,254900.0,17500.0,Mazowieckie
+12,Volkswagen,Jetta A6,2014,Benzyna,1400.0,59000.0,59900.0,Małopolskie
+13,Audi,A1,2011,Benzyna,1400.0,90000.0,39999.0,Wielkopolskie
+14,BMW,Seria 3 E90,2008,Diesel,1998.0,246000.0,27999.0,Lubelskie
+15,Citroën,C4 Picasso I,2007,Diesel,1598.0,181658.0,16900.0,Kujawsko-pomorskie
+16,Ford,Mondeo Mk3,2003,Diesel,2000.0,180000.0,7200.0,Małopolskie
+17,Mercedes-Benz,Klasa E W213,2017,Diesel,1950.0,5.0,258709.0,Łódzkie
+18,Volkswagen,Tiguan II,2017,Diesel,2000.0,5.0,128900.0,Łódzkie
+19,Mercedes-Benz,GLK GLK,2012,Diesel,2143.0,89000.0,89000.0,Dolnośląskie
+20,Honda,CR-V IV,2017,Benzyna,2000.0,5.0,111600.0,Wielkopolskie
+21,Mercedes-Benz,Klasa E W213,2017,Diesel,1950.0,2.0,292800.0,Mazowieckie
+22,Chevrolet,Captiva,2006,Diesel,1991.0,219000.0,24999.0,Zachodniopomorskie
+23,Volvo,V50,2011,Diesel,1600.0,170000.0,26900.0,Wielkopolskie
+24,Volvo,S40 II,2008,Diesel,1600.0,232000.0,19999.0,Pomorskie
+25,BMW,Seria 3 E46,2001,Benzyna+LPG,2200.0,218000.0,16800.0,Dolnośląskie
+26,Volvo,S60 I,2003,Diesel,2401.0,228000.0,12600.0,Dolnośląskie
+27,BMW,Seria 5 E39,2001,Benzyna+LPG,2971.0,215000.0,17900.0,Dolnośląskie
+28,Toyota,Avensis III,2009,Diesel,2000.0,179000.0,34900.0,Pomorskie
+29,Opel,Insignia A,2010,Diesel,2000.0,179000.0,31900.0,Wielkopolskie
+30,Ford,Ranger,2011,Diesel,2500.0,164000.0,55000.0,Mazowieckie
+31,Fiat,Doblo I,2002,Benzyna,1600.0,208000.0,8700.0,Dolnośląskie
+32,Suzuki,SX4 S-Cross,2017,Benzyna,998.0,1.0,73900.0,Śląskie
+33,Mercedes-Benz,CLA CLA,2017,Benzyna,1991.0,500.0,194900.0,Wielkopolskie
+34,Citroën,Xsara II,2002,Benzyna,1600.0,216005.0,4699.0,Świętokrzyskie
+35,Renault,Espace IV,2008,Diesel,1995.0,134000.0,21900.0,Małopolskie
+36,BMW,X5 F15,2017,Diesel,1997.0,1.0,266800.0,Pomorskie
+37,Škoda,Octavia III,2016,Benzyna,1798.0,11563.0,124900.0,Mazowieckie
+38,Ford,Focus Mk2,2006,Benzyna,1600.0,161000.0,13990.0,Kujawsko-pomorskie
+39,Opel,Zafira B,2010,Diesel,1700.0,132870.0,25900.0,Śląskie
+40,Opel,Meriva I,2004,Diesel,1700.0,204000.0,7000.0,Zachodniopomorskie
+41,Audi,A3 8P,2004,Benzyna,2000.0,140910.0,21999.0,Dolnośląskie
+42,Nissan,Qashqai II,2017,Benzyna,1197.0,10.0,91200.0,Śląskie
+43,Volvo,XC 60,2017,Diesel,1986.0,1.0,158600.0,Małopolskie
+44,Renault,Kangoo I,2007,Benzyna,1600.0,124000.0,15600.0,Lubuskie
+45,Volvo,XC 60 I,2016,Diesel,1969.0,20900.0,158000.0,Śląskie
+46,Honda,Civic VIII,1997,Benzyna,1400.0,200000.0,2500.0,Mazowieckie
+47,Ford,S-Max I,2012,Diesel,1997.0,183000.0,47900.0,Zachodniopomorskie
+48,Renault,Laguna III,2007,Diesel,1995.0,163641.0,18900.0,Dolnośląskie
+49,Peugeot,207,2007,Benzyna,1398.0,125123.0,13900.0,Wielkopolskie
+50,Renault,Scenic I,2003,Diesel,1870.0,244529.0,5400.0,Małopolskie
+51,Audi,A6 C6,2006,Diesel,2700.0,257000.0,26800.0,Mazowieckie
+52,Mini,Clubman,2016,Diesel,1995.0,8000.0,122700.0,Łódzkie
+53,BMW,Seria 5 F10,2016.0,Diesel,1995.0,25135.0,159900.0,Pomorskie
+54,BMW,Seria 3 E90,2008,Benzyna,2979.0,76000.0,32800.0,Mazowieckie
+55,Ford,Mondeo Mk4,2014,Diesel,2000.0,147000.0,43900.0,Pomorskie
+56,Opel,Insignia A,2014.0,Diesel,2000.0,80400.0,61900.0,Podkarpackie
+57,Volkswagen,Polo IV,2008,Benzyna,1198.0,158452.0,11900.0,Śląskie
+58,Ford,Focus Mk3,2017,Benzyna,1598.0,7.0,77900.0,Lubuskie
+59,Peugeot,307 I,2003,Benzyna,1600.0,179765.0,8500.0,Wielkopolskie
+60,Audi,Q7 II,2016,Diesel,3000.0,3950.0,375000.0,Mazowieckie
+61,Audi,A8 D3,2003,Benzyna+LPG,3697.0,290000.0,24900.0,Wielkopolskie
+62,Opel,Corsa D,2008,Benzyna,1390.0,130000.0,19900.0,Śląskie
+63,Peugeot,207,2008,Benzyna,1598.0,119000.0,18900.0,Zachodniopomorskie
+64,Renault,Laguna II,2007,Diesel,1870.0,222000.0,9900.0,Śląskie
+65,Mercedes-Benz,Klasa C W204,2009,Diesel,2200.0,182500.0,58900.0,Lubelskie
+66,BMW,Seria 5 F10,2013,Diesel,2000.0,123000.0,129000.0,Pomorskie
+67,Ford,Mondeo Mk4,2009,Diesel,2000.0,168000.0,22800.0,Wielkopolskie
+68,Pontiac,Trans Sport,1994,Benzyna+LPG,3100.0,199000.0,4800.0,Dolnośląskie
+69,Ford,Cougar,2000,Benzyna,2000.0,106000.0,7999.0,Mazowieckie
+70,Seat,Leon III,2016,Benzyna,1395.0,28871.0,66999.0,Mazowieckie
+71,Nissan,X-Trail III,2017.0,Diesel,1600.0,1.0,114900.0,Lubuskie
+72,Volvo,V90,2016,Diesel,1969.0,10800.0,239000.0,Pomorskie
+73,Citroën,C5 III,2009,Diesel,1997.0,162654.0,28499.0,Wielkopolskie
+74,Opel,Zafira B,2007,Diesel,1900.0,190000.0,15700.0,Zachodniopomorskie
+75,Toyota,RAV4 III,2007,Diesel,2231.0,113000.0,38900.0,Wielkopolskie
+76,BMW,Seria 1 F20,2016,Diesel,1496.0,4600.0,111898.0,Wielkopolskie
+77,Nissan,Qashqai+2,2009,Benzyna,2000.0,163000.0,38800.0,Lubelskie
+78,Honda,CR-V IV,2017,Benzyna,1997.0,1.0,131600.0,Zachodniopomorskie
+79,BMW,X1 F48,2017,Diesel,1995.0,7750.0,183900.0,Zachodniopomorskie
+80,Renault,Espace IV,2002,Benzyna,2000.0,204000.0,11900.0,Lubelskie
+81,Volkswagen,Touran II,2012,Diesel,1598.0,220000.0,29900.0,Dolnośląskie
+82,Mercedes-Benz,Klasa E W210,2000,Diesel,2148.0,362653.0,8900.0,Lubelskie
+83,Dodge,Caliber,2005,Diesel,1986.0,192000.0,18800.0,Mazowieckie
+84,Toyota,Avensis II,2007,Diesel,2231.0,241000.0,23900.0,Wielkopolskie
+85,Peugeot,206,2005,Benzyna,1360.0,145000.0,9400.0,Zachodniopomorskie
+86,Opel,Vectra C,2007,Benzyna,2200.0,219000.0,15900.0,Podkarpackie
+87,Opel,Corsa D,2012,Benzyna,1400.0,89000.0,20999.0,Kujawsko-pomorskie
+88,Audi,A4 B6,2003,Benzyna,2400.0,193000.0,19900.0,Mazowieckie
+89,Volkswagen,Touran I,2009,Diesel,2000.0,287000.0,30500.0,Opolskie
+90,Opel,Meriva I,2008,Benzyna,1364.0,184025.0,15900.0,Podkarpackie
+91,Toyota,Corolla Verso,2005,Benzyna,1794.0,133248.0,22900.0,Małopolskie
+92,Jeep,Compass,2017,Diesel,1368.0,1.0,113900.0,Kujawsko-pomorskie
+93,Audi,A4 B6,2001.0,Benzyna,1600.0,154000.0,14900.0,Kujawsko-pomorskie
+94,Mazda,6 I,2005,Benzyna,1999.0,250000.0,14500.0,Lubelskie
+95,Saab,9-3 II,2009,Diesel,191000.0,195000.0,29900.0,Kujawsko-pomorskie
+96,Hyundai,i20 II,2017,Benzyna,1248.0,5.0,46700.0,Śląskie
+97,Škoda,Fabia II,2012,Diesel,1598.0,166000.0,19999.0,Wielkopolskie
+98,Kia,Carens IV,2016,Benzyna,1600.0,6.0,69990.0,Lubelskie
+99,Opel,Astra H,2007,Diesel,1686.0,211000.0,13300.0,Mazowieckie
+100,Volkswagen,Touran I,2003,Benzyna,1598.0,151000.0,15000.0,Kujawsko-pomorskie
+101,Hyundai,i10 I,2009,Benzyna,1100.0,97000.0,10500.0,Śląskie
+102,Mitsubishi,ASX,2014,Diesel,1798.0,70346.0,60900.0,Śląskie
+103,Audi,A4 B7,2007,Diesel,2000.0,223000.0,19900.0,Wielkopolskie
+104,Opel,Antara,2009,Diesel,2000.0,189076.0,31900.0,Mazowieckie
+105,Suzuki,Alto,2002,Benzyna,1100.0,72900.0,4300.0,Zachodniopomorskie
+106,Citroën,Berlingo I,2005,Diesel,1868.0,230000.0,9999.0,Lubuskie
+107,Volkswagen,Polo III,2001,Benzyna,1400.0,160000.0,6900.0,Mazowieckie
+108,Opel,Zafira B,2009,Diesel,1900.0,167000.0,21500.0,Kujawsko-pomorskie
+109,Peugeot,2008,2017,Benzyna,1199.0,4.0,68600.0,Podlaskie
+110,Volkswagen,Touran I,2005,Diesel,1900.0,211000.0,15500.0,Podkarpackie
+111,Renault,Megane II,2007,Benzyna,1600.0,147000.0,14900.0,Śląskie
+112,Mazda,3 II,2009,Diesel,1560.0,138000.0,26900.0,Śląskie
+113,Mercedes-Benz,GLE,2017,Diesel,2987.0,10000.0,335200.0,Mazowieckie
+114,Ford,Fiesta Mk7,2009,Benzyna,1200.0,163000.0,18900.0,Śląskie
+115,Renault,Trafic II,2006,Diesel,2463.0,186000.0,19800.0,Śląskie
+116,Infiniti,QX70,2016,Benzyna,3696.0,39396.0,215000.0,Śląskie
+117,Audi,A4 B6,2002,Diesel,1896.0,249000.0,15999.0,Podlaskie
+118,Škoda,Octavia I,2002,Benzyna,2000.0,186000.0,11900.0,Podlaskie
+119,Škoda,Octavia II,2010,Diesel,1968.0,131000.0,29800.0,Dolnośląskie
+120,BMW,Seria 5 E60,2004,Diesel,2500.0,214226.0,16300.0,Pomorskie
+121,Hyundai,Tucson II,2017,Benzyna,1591.0,1.0,90860.0,Śląskie
+122,Ford,Focus Mk3,2013,Diesel,1600.0,168000.0,35900.0,Mazowieckie
+123,Mitsubishi,ASX,2014,Benzyna,1598.0,24144.0,62900.0,Śląskie
+124,Mercedes-Benz,CLK W208,2002,Benzyna,2000.0,129000.0,13900.0,Wielkopolskie
+125,Citroën,C4 Grand Picasso II,2014,Diesel,1990.0,178000.0,50000.0,Podkarpackie
+126,Land Rover,Range Rover Sport II,2017,Diesel,1999.0,6909.0,342170.0,Dolnośląskie
+127,Ford,Mondeo Mk4,2010,Benzyna,1596.0,139687.0,32000.0,Śląskie
+128,Ford,Fiesta Mk6,2005,Benzyna,1299.0,169000.0,8500.0,Wielkopolskie
+129,Fiat,Grande Punto,2006,Benzyna,1368.0,149000.0,12500.0,Śląskie
+130,Mercedes-Benz,Klasa S W126,1984,Benzyna,2800.0,147400.0,37500.0,Mazowieckie
+131,Volkswagen,Touran I,2010,Diesel,1900.0,146000.0,29900.0,Wielkopolskie
+132,Škoda,Octavia III,2017,Benzyna,1390.0,5.0,79900.0,Łódzkie
+133,Mitsubishi,ASX,2016,Diesel,1599.0,6500.0,86999.0,Wielkopolskie
+134,Honda,Civic VIII,2010,Benzyna,1798.0,169000.0,35400.0,Mazowieckie
+135,Nissan,Qashqai I,2013,Diesel,1500.0,159000.0,42990.0,Śląskie
+136,Seat,Leon III,2016,Benzyna,1400.0,11000.0,90000.0,Śląskie
+137,Kia,Pro_cee'd,2012,Benzyna,1600.0,120000.0,27900.0,Śląskie
+138,Mitsubishi,Outlander I,2004,Benzyna,1995.0,194000.0,16500.0,Warmińsko-mazurskie
+139,Opel,Vectra C,2002,Benzyna,1796.0,209987.0,12900.0,Warmińsko-mazurskie
+140,Audi,A4 B8,2012,Diesel,2700.0,151000.0,59800.0,Śląskie
+141,Suzuki,Baleno,2017,Benzyna,1200.0,1.0,43700.0,Śląskie
+142,Opel,Agila B,2011,Benzyna,1242.0,46000.0,19900.0,Śląskie
+143,Volkswagen,Passat B8,2017,Benzyna,1800.0,1.0,111900.0,Śląskie
+144,Audi,Q5 8R,2015,Diesel,2000.0,52000.0,36000.0,Świętokrzyskie
+145,BMW,Seria 3 F30,2015,Diesel,2000.0,178200.0,89800.0,Małopolskie
+146,Volvo,V40 I,2000,Diesel,1900.0,205000.0,6900.0,Mazowieckie
+147,Seat,Leon I,2001,Benzyna,1600.0,197233.0,10999.0,Świętokrzyskie
+148,Ford,Mondeo Mk3,2004,Benzyna,2000.0,119000.0,13900.0,Dolnośląskie
+149,Hyundai,Tucson II,2017,Diesel,2000.0,2510.0,144900.0,Śląskie
+150,Renault,Megane III,2009,Benzyna,1598.0,94000.0,26900.0,Świętokrzyskie
+151,Audi,R8,2008,Benzyna,4200.0,55800.0,239900.0,Małopolskie
+152,Volkswagen,Golf VI,2009,Benzyna,1600.0,196000.0,26900.0,Wielkopolskie
+153,Audi,A5 F5,2017,Diesel,1968.0,1400.0,240900.0,Małopolskie
+154,Toyota,Avensis II,2008,Benzyna,1794.0,168600.0,28500.0,Lubelskie
+155,Peugeot,208,2016,Benzyna,1199.0,22372.0,39900.0,Wielkopolskie
+156,Renault,Clio IV,2017,Benzyna,898.0,9.0,54960.0,Mazowieckie
+157,Toyota,Corolla Seria,2003,Diesel,1995.0,232000.0,11900.0,Małopolskie
+158,Ford,Focus Mk3,2015,Diesel,1600.0,147829.0,47900.0,Małopolskie
+159,Škoda,Superb III,2016,Diesel,2000.0,15000.0,152900.0,Śląskie
+160,Mercedes-Benz,Klasa C W204,2012,Benzyna,6208.0,59000.0,169900.0,Małopolskie
+161,Smart,Roadster,2003,Benzyna,700.0,63000.0,16000.0,Lubuskie
+162,Honda,CR-V IV,2017,Benzyna,2000.0,1.0,131900.0,Mazowieckie
+163,Toyota,Yaris I,2001,Benzyna,1000.0,156000.0,6490.0,Kujawsko-pomorskie
+164,Honda,Civic VII,2004,Benzyna,1389.0,164000.0,11800.0,Dolnośląskie
+165,Mazda,6 I,2007,Diesel,1998.0,218805.0,12999.0,Zachodniopomorskie
+166,BMW,Seria 1 F20,2016,Diesel,1496.0,2360.0,109990.0,Kujawsko-pomorskie
+167,Fiat,Tipo II,2016,Benzyna,1368.0,1.0,65900.0,Lubelskie
+168,Peugeot,5008 I,2014,Diesel,1600.0,132000.0,39900.0,Wielkopolskie
+169,Kia,Picanto II,2017,Benzyna,1200.0,1.0,55890.0,Wielkopolskie
+170,Hyundai,ix35,2011,Benzyna,1998.0,172000.0,47900.0,Mazowieckie
+171,Peugeot,308 T7,2009,Diesel,1600.0,135571.0,19900.0,Śląskie
+172,Volkswagen,Golf VII,2017,Benzyna,1400.0,1.0,89900.0,Pomorskie
+173,Porsche,Panamera,2010,Benzyna,4800.0,129300.0,138000.0,Mazowieckie
+174,Škoda,Octavia II,2011,Diesel,2000.0,214000.0,30000.0,Mazowieckie
+175,Peugeot,307 II,2006,Benzyna+LPG,2000.0,131000.0,16800.0,Śląskie
+176,Renault,Grand Scenic IV,2015,Diesel,1600.0,27500.0,69900.0,Pomorskie
+177,Volkswagen,Bora,2000,Benzyna,1595.0,215000.0,7900.0,Podlaskie
+178,Infiniti,Q50,2014,Benzyna,3700.0,84000.0,114000.0,Małopolskie
+179,Audi,A4 B8,2015,Diesel,1968.0,10.0,109900.0,Mazowieckie
+180,Citroën,C4 I,2007,Benzyna,1400.0,150000.0,11999.0,Małopolskie
+181,Nissan,Almera N16,2006,Benzyna,1500.0,161000.0,10900.0,Łódzkie
+182,Renault,Megane II,2008,Diesel,1500.0,180000.0,12500.0,Lubelskie
+183,Audi,Q5 FY,2017,Benzyna,1998.0,1.0,166900.0,Podlaskie
+184,Renault,Megane II,2007,Diesel,1900.0,205000.0,10900.0,Mazowieckie
+185,Mini,Cooper,2005,Benzyna,1600.0,181000.0,15999.0,Zachodniopomorskie
+186,Citroën,C2,2004,Benzyna,1124.0,100075.0,7300.0,Śląskie
+187,Peugeot,508,2016,Diesel,2000.0,12000.0,87000.0,Mazowieckie
+188,Mazda,CX-7,2009,Diesel,2184.0,141445.0,42900.0,Wielkopolskie
+189,Kia,Cerato,2005,Diesel,2000.0,204000.0,7999.0,Łódzkie
+190,Škoda,Kodiaq,2017,Diesel,2000.0,4200.0,142200.0,Opolskie
+191,Mercedes-Benz,Klasa C W203,2001,Diesel,2685.0,321940.0,17000.0,Świętokrzyskie
+192,Renault,Thalia,2004,Diesel,1461.0,250000.0,3900.0,Mazowieckie
+193,Opel,Zafira B,2007,Benzyna,1600.0,178000.0,16400.0,Śląskie
+194,Citroën,Xsara Picasso,2000,Benzyna,1800.0,196421.0,2900.0,Wielkopolskie
+195,Volvo,V40 I,2001,Diesel,1900.0,310600.0,4500.0,Małopolskie
+196,Seat,Leon I,2002,Diesel,1900.0,230700.0,11900.0,Mazowieckie
+197,Mitsubishi,Outlander III,2016,Benzyna,2000.0,1.0,110990.0,Lubelskie
+198,Volkswagen,Transporter T5,2007,Diesel,2500.0,289000.0,29500.0,Kujawsko-pomorskie
+199,Kia,Cerato,2005,Diesel,1991.0,143000.0,8999.0,Zachodniopomorskie
+200,Hyundai,Elantra IV,2017,Benzyna,1591.0,4500.0,69500.0,Śląskie
+201,Ford,Focus Mk1,2000,Benzyna,2000.0,195246.0,4200.0,Lubuskie
+202,Honda,CR-V III,2010,Benzyna,1997.0,100400.0,60000.0,Wielkopolskie
+203,Honda,Accord VII,2006,Benzyna,2354.0,208000.0,29900.0,Mazowieckie
+204,Lexus,LS II,1998,Benzyna,4000.0,301000.0,28000.0,Małopolskie
+205,Opel,Astra H,2009,Diesel,1700.0,267000.0,16900.0,Podkarpackie
+206,Toyota,Corolla Seria,2006,Diesel,1364.0,233600.0,15000.0,Mazowieckie
+207,Opel,Corsa D,2006,Benzyna,998.0,104564.0,12900.0,Wielkopolskie
+208,Fiat,Bravo II,2007,Diesel,1910.0,147000.0,17900.0,Małopolskie
+209,Opel,Astra J,2014,Benzyna,1400.0,60000.0,46500.0,Małopolskie
+210,Fiat,Doblo I,2002,Diesel,1900.0,300000.0,4999.0,Lubelskie
+211,Suzuki,Grand Vitara II,2006,Diesel,1997.0,229896.0,17900.0,Pomorskie
+212,Citroën,C4 Picasso II,2017,Diesel,1560.0,1900.0,81999.0,Łódzkie
+213,Alfa Romeo,156,2004,Diesel,1900.0,284000.0,6900.0,Lubelskie
+214,Audi,A6 C6,2009,Diesel,2000.0,317000.0,43800.0,Kujawsko-pomorskie
+215,Seat,Ibiza IV,2009,Benzyna,1390.0,132000.0,19999.0,Łódzkie
+216,Mitsubishi,Grandis,2006,Diesel,2000.0,250000.0,16900.0,Śląskie
+217,Suzuki,Grand Vitara II,2006,Diesel,1900.0,166000.0,24900.0,Małopolskie
+218,Opel,Zafira B,2007,Diesel,1910.0,181233.0,15900.0,Kujawsko-pomorskie
+219,Ford,Ranger,2017,Diesel,3200.0,1.0,144900.0,Małopolskie
+220,Kia,Cee'd I,2010,Diesel,1600.0,217000.0,17900.0,Łódzkie
+221,Opel,Astra K,2016,Benzyna,1399.0,7900.0,63900.0,Śląskie
+222,Audi,A6 C7,2016,Diesel,3000.0,4073.0,219000.0,Podkarpackie
+223,Mercedes-Benz,Klasa S W140,1992,Benzyna,3199.0,220000.0,32500.0,Zachodniopomorskie
+224,Jaguar,X-Type,2006,Benzyna,2967.0,222050.0,29500.0,Małopolskie
+225,Audi,A6 C6,2006,Diesel,3000.0,279000.0,31900.0,Mazowieckie
+226,Audi,A6 Allroad C5,2004,Diesel,2500.0,204000.0,19700.0,Lubuskie
+227,Toyota,Corolla Seria,2006,Diesel,2000.0,140000.0,15900.0,Śląskie
+228,Toyota,Yaris II,2008,Diesel,1364.0,186500.0,16900.0,Śląskie
+229,Volkswagen,Golf V,2008,Diesel,1900.0,168000.0,21999.0,Wielkopolskie
+230,Smart,Forfour I,2005,Benzyna,1100.0,106000.0,11500.0,Śląskie
+231,Land Rover,Discovery Sport,2017,Diesel,1999.0,10000.0,251910.0,Wielkopolskie
+232,Kia,Sportage II,2007,Diesel,2000.0,220000.0,24999.0,Śląskie
+233,Fiat,Sedici,2007,Diesel,1910.0,233000.0,17900.0,Małopolskie
+234,Toyota,Aygo II,2017,Benzyna,998.0,144.0,45900.0,Mazowieckie
+235,BMW,Seria 6 F12/13,2014,Diesel,3000.0,197000.0,230000.0,Mazowieckie
+236,Opel,Astra H,2010,Diesel,1686.0,154000.0,19500.0,Dolnośląskie
+237,Volkswagen,Touran III,2012,Diesel,1968.0,188436.0,39999.0,Wielkopolskie
+238,Mercedes-Benz,W124 (1984-1993),1991,Diesel,1997.0,647000.0,4000.0,Zachodniopomorskie
+239,Citroën,C3 II,2012,Benzyna,1400.0,74109.0,26900.0,Pomorskie
+240,Opel,Vectra C,2002,Benzyna,2200.0,254700.0,9900.0,Świętokrzyskie
+241,Mercedes-Benz,Klasa S W220,2000,Benzyna+LPG,4966.0,219000.0,30000.0,Zachodniopomorskie
+242,Jeep,Grand Cherokee I,1994,Benzyna+LPG,3964.0,270000.0,9500.0,Pomorskie
+243,Volkswagen,Multivan,1994,Diesel,2400.0,503000.0,13900.0,Mazowieckie
+244,Citroën,Xsara Picasso,2006,Benzyna,1587.0,119204.0,10900.0,Małopolskie
+245,Jeep,Renegade,2016,Benzyna,1400.0,2.0,112890.0,Mazowieckie
+246,Volkswagen,Golf VII,2017,Benzyna,1395.0,1.0,85500.0,Kujawsko-pomorskie
+247,Jeep,Wrangler II,2000,Benzyna+LPG,2500.0,209000.0,35900.0,Podlaskie
+248,Opel,Vectra C,2006,Diesel,1900.0,22600.0,16900.0,Śląskie
+249,Daewoo,Tico,2000,Benzyna,796.0,188200.0,650.0,Opolskie
+250,Mitsubishi,Colt Z30,2007,Benzyna,1300.0,157000.0,12300.0,Lubelskie
+251,Volkswagen,Golf IV,2001,Benzyna,1600.0,200000.0,4950.0,Mazowieckie
+252,Opel,Corsa D,2008,Benzyna,1000.0,88000.0,14900.0,Podkarpackie
+253,Hyundai,i20 II,2015,Diesel,1400.0,27218.0,40990.0,Śląskie
+254,Renault,Laguna III,2010,Diesel,1500.0,195000.0,26700.0,Wielkopolskie
+255,Suzuki,Grand Vitara II,2005,Benzyna,1998.0,171000.0,26900.0,Lubuskie
+256,Opel,Vectra C,2006,Benzyna,2792.0,186000.0,21900.0,Podkarpackie
+257,Renault,Kangoo II,2012,Diesel,1500.0,156000.0,29900.0,Dolnośląskie
+258,Mercedes-Benz,Klasa B W246,2012.0,Diesel,1796.0,112556.0,70500.0,Wielkopolskie
+259,Mazda,5 II,2011,Diesel,1600.0,126000.0,38900.0,Zachodniopomorskie
+260,Hyundai,i40,2014,Diesel,1685.0,104835.0,62900.0,Łódzkie
+261,Renault,Scenic I,2003,Diesel,1900.0,180000.0,7500.0,Kujawsko-pomorskie
+262,Nissan,Note II,2013,Benzyna,1386.0,33600.0,26900.0,Podlaskie
+263,Volkswagen,Golf IV,2002,Diesel,1896.0,255000.0,10900.0,Pomorskie
+264,Suzuki,Ignis,2007,Benzyna,1328.0,134890.0,17500.0,Mazowieckie
+265,Peugeot,3008 I,2013,Diesel,1560.0,104104.0,47500.0,Mazowieckie
+266,Saab,9-3 I,2001,Benzyna,1985.0,274000.0,5900.0,Mazowieckie
+267,Mercedes-Benz,Klasa G W463,2013,Diesel,350.0,145000.0,174000.0,Śląskie
+268,BMW,X3 E83,2009,Diesel,1998.0,214758.0,44999.0,Świętokrzyskie
+269,Mazda,6 II,2009.0,Diesel,1983.0,294000.0,23000.0,Śląskie
+270,Opel,Mokka,2014,Diesel,1700.0,147000.0,55900.0,Pomorskie
+271,Ford,Focus Mk1,2002,Benzyna,1600.0,212000.0,5999.0,Lubelskie
+272,Kia,Sportage II,2009,Diesel,1995.0,146000.0,24900.0,Mazowieckie
+273,Peugeot,5008 I,2010,Benzyna,1600.0,170000.0,24900.0,Łódzkie
+274,Volkswagen,Polo IV,2003,Benzyna,1200.0,153000.0,8900.0,Podlaskie
+275,Renault,Megane III,2014,Diesel,1461.0,74000.0,37500.0,Świętokrzyskie
+276,Audi,A3 8L,2002,Benzyna,1781.0,225000.0,9999.0,Podlaskie
+277,Volkswagen,Golf VII,2014,Diesel,1958.0,54000.0,64900.0,Wielkopolskie
+278,Audi,TT 8N,2001,Benzyna,1781.0,197000.0,20000.0,Małopolskie
+279,SsangYong,REXTON,2003,Diesel,2900.0,300043.0,12999.0,Wielkopolskie
+280,BMW,Seria 5 E60,2003,Benzyna+LPG,2200.0,209000.0,32900.0,Małopolskie
+281,Audi,A4 B7,2006,Diesel,3.0,270000.0,37900.0,Małopolskie
+282,Chevrolet,Nubira,2006,Benzyna,1598.0,160000.0,8900.0,Świętokrzyskie
+283,Peugeot,307 II,2005,Benzyna,1600.0,150000.0,11900.0,Śląskie
+284,Citroën,C4 Grand Picasso I,2009,Diesel,1560.0,199000.0,18800.0,Małopolskie
+285,Škoda,Fabia III,2015,Benzyna+LPG,999.0,63578.0,35400.0,Mazowieckie
+286,Citroën,C5 II,2005,Benzyna,1997.0,125000.0,11890.0,Wielkopolskie
+287,Volkswagen,Golf VI,2008,Diesel,1989.0,260000.0,21900.0,Dolnośląskie
+288,Mazda,2 I,2004,Benzyna,1388.0,150000.0,7900.0,Pomorskie
+289,Audi,A4 B8,2012,Diesel,2000.0,176000.0,61900.0,Śląskie
+290,Renault,Scenic II,2004,Diesel,1900.0,216000.0,9800.0,Wielkopolskie
+291,Audi,A3 8P,2007,Benzyna,1596.0,227000.0,25900.0,Dolnośląskie
+292,Renault,Clio IV,2013,Benzyna,1149.0,77253.0,31250.0,Małopolskie
+293,Seat,Alhambra II,2017,Diesel,2000.0,1.0,144254.0,Mazowieckie
+294,Ford,Focus Mk1,2003,Benzyna,1600.0,202000.0,6400.0,Świętokrzyskie
+295,Škoda,Superb III,2017,Diesel,2000.0,5.0,135990.0,Pomorskie
+296,Mercedes-Benz,Klasa C W204,2013,Diesel,2200.0,230000.0,59000.0,Wielkopolskie
+297,BMW,Seria 3 E36,1997.0,Benzyna,2494.0,147250.0,17900.0,Mazowieckie
+298,Lexus,IS III,2014,Hybryda,2494.0,160000.0,84900.0,Mazowieckie
+299,Hyundai,i20 II,2017,Benzyna+LPG,1000.0,10.0,62900.0,Pomorskie
+300,Alfa Romeo,147,2002,Benzyna,2000.0,200000.0,4100.0,Lubelskie
+301,Opel,Corsa D,2008.0,Diesel,1300.0,153000.0,13500.0,Małopolskie
+302,Volkswagen,Golf VII,2017,Benzyna,1984.0,8.0,188800.0,Małopolskie
+303,Land Rover,Discovery V,2017,Diesel,1999.0,22.0,369050.0,Pomorskie
+304,Mercedes-Benz,Klasa C W204,2008,Benzyna,1800.0,209000.0,42900.0,Dolnośląskie
+305,Volkswagen,Golf IV,2006,Diesel,1900.0,224000.0,11900.0,Świętokrzyskie
+306,Citroën,C5 III,2011,Diesel,1997.0,220000.0,32000.0,Lubelskie
+307,Nissan,Juke,2012,Benzyna,1600.0,97000.0,38500.0,Lubuskie
+308,Suzuki,Vitara II,2017,Benzyna,1586.0,1.0,82190.0,Małopolskie
+309,Dacia,Logan II,2017,Benzyna,1149.0,5.0,39210.0,Wielkopolskie
+310,Volkswagen,Golf Sportsvan,2017,Benzyna,1395.0,1000.0,97499.0,Śląskie
+311,Ford,Focus C-Max,2006,Diesel,1560.0,306200.0,14900.0,Warmińsko-mazurskie
+312,Ford,Mondeo Mk5,2017,Diesel,2.0,10.0,129900.0,Śląskie
+313,Škoda,Fabia II,2013,Diesel,1600.0,146000.0,21900.0,Pomorskie
+314,Hyundai,i40,2016,Diesel,1685.0,3633.0,106900.0,Śląskie
+315,Toyota,Avensis III,2017,Benzyna,1798.0,9.0,116200.0,Wielkopolskie
+316,Mercedes-Benz,Klasa A W168,2010,Diesel,1689.0,225000.0,6800.0,Pomorskie
+317,Volvo,S40 II,2004,Benzyna,1800.0,166600.0,17000.0,Zachodniopomorskie
+318,Audi,A6 C5,2001,Benzyna+LPG,2790.0,295000.0,12222.0,Lubuskie
+319,Škoda,Octavia II,2006,Benzyna,1595.0,157000.0,18999.0,Lubuskie
+320,Opel,Astra K,2017,Benzyna,1400.0,1.0,66500.0,Dolnośląskie
+321,Volkswagen,Polo III,1998,Benzyna,1043.0,137153.0,1900.0,Mazowieckie
+322,Fiat,Croma II,2007,Diesel,1900.0,170500.0,14900.0,Mazowieckie
+323,Citroën,Berlingo I,2002,Diesel,1868.0,291705.0,7500.0,Mazowieckie
+324,Volkswagen,up!,2017,Benzyna,999.0,5.0,39300.0,Mazowieckie
+325,Citroën,Berlingo I,2001,Benzyna,1360.0,186000.0,4600.0,Wielkopolskie
+326,Opel,Vectra B,1999,Diesel,2000.0,189000.0,5500.0,Mazowieckie
+327,Volkswagen,Golf Plus,2011,Diesel,1595.0,177000.0,34500.0,Lubelskie
+328,Ford,Focus Mk2,2008,Benzyna,1596.0,92000.0,17500.0,Podlaskie
+329,Volkswagen,Golf IV,1999,Benzyna,1400.0,140000.0,3200.0,Lubuskie
+330,Volkswagen,Jetta A6,2015,Diesel,2000.0,63000.0,48800.0,Mazowieckie
+331,Audi,Q3,2015,Diesel,2000.0,159000.0,76900.0,Małopolskie
+332,Renault,Modus,2005,Benzyna,1600.0,154000.0,9400.0,Śląskie
+333,Renault,Kadjar,2015,Diesel,1598.0,9528.0,93900.0,Warmińsko-mazurskie
+334,Škoda,RAPID,2017,Diesel,1422.0,1.0,63800.0,Dolnośląskie
+335,Audi,A4 B7,2007,Diesel,1995.0,177000.0,26400.0,Zachodniopomorskie
+336,Hyundai,ix35,2010,Benzyna,2000.0,83228.0,50900.0,Śląskie
+337,Mercedes-Benz,Klasa A W169,2007,Diesel,2000.0,196000.0,15999.0,Śląskie
+338,Ford,Focus Mk1,2000,Benzyna,1796.0,193000.0,6750.0,Podkarpackie
+339,Volvo,V50,2007,Diesel,1560.0,230000.0,15500.0,Mazowieckie
+340,Audi,A6 C7,2016,Diesel,2967.0,52366.0,279900.0,Mazowieckie
+341,Audi,Q7 I,2006,Diesel,3000.0,120158.0,74900.0,Zachodniopomorskie
+342,Citroën,C1 I,2009,Benzyna,998.0,109000.0,12800.0,Śląskie
+343,Porsche,Panamera,2014,Diesel,3000.0,85000.0,299000.0,Wielkopolskie
+344,Opel,Corsa C,2006,Benzyna,1000.0,109000.0,8500.0,Podkarpackie
+345,Škoda,Octavia III,2014,Diesel,1598.0,96150.0,49900.0,Pomorskie
+346,Škoda,Fabia I,2002,Benzyna,1390.0,182315.0,6700.0,Małopolskie
+347,Opel,Astra H,2007,Diesel,1900.0,230000.0,14900.0,Mazowieckie
+348,Fiat,Punto II,2003,Benzyna,1242.0,181000.0,2800.0,Wielkopolskie
+349,BMW,Seria 5 E39,1999,Diesel,2926.0,251000.0,11900.0,Wielkopolskie
+350,Hyundai,Trajet,2004,Benzyna,2000.0,178000.0,9900.0,Pomorskie
+351,Volkswagen,Passat B7,2011,Diesel,1600.0,149000.0,54900.0,Śląskie
+352,Mercedes-Benz,Klasa S W220,2003,Benzyna,4999.0,235000.0,30500.0,Kujawsko-pomorskie
+353,Mitsubishi,Lancer VIII,2010,Benzyna,1800.0,180000.0,27900.0,Mazowieckie
+354,Volkswagen,Passat B6,2006,Diesel,2000.0,216000.0,18900.0,Wielkopolskie
+355,Toyota,RAV4 III,2008,Benzyna,1998.0,87000.0,43500.0,Łódzkie
+356,Suzuki,Grand Vitara II,2006,Benzyna,2700.0,60100.0,27900.0,Lubelskie
+357,Volkswagen,Passat B7,2011,Diesel,2000.0,145998.0,47800.0,Łódzkie
+358,Ford,C-MAX II,2017,Benzyna,1598.0,5.0,71500.0,Pomorskie
+359,Mazda,6 III,2017,Benzyna,1998.0,5.0,124300.0,Podlaskie
+360,Opel,Mokka,2017,Benzyna,1364.0,1.0,80990.0,Śląskie
+361,Ford,Kuga I,2010,Diesel,2000.0,230000.0,42900.0,Łódzkie
+362,Dacia,Sandero I,2009,Benzyna,1390.0,118810.0,8850.0,Śląskie
+363,Fiat,Sedici,2008,Diesel,1900.0,162000.0,23800.0,Małopolskie
+364,Peugeot,207,2011,Diesel,1560.0,194000.0,18500.0,Podlaskie
+365,Opel,Vectra C,2007,Benzyna,1798.0,143900.0,21700.0,Mazowieckie
+366,Toyota,Yaris III,2016,Benzyna,998.0,10600.0,39700.0,Kujawsko-pomorskie
+367,Ford,C-MAX I,2005,Benzyna,1799.0,160000.0,11999.0,Śląskie
+368,Hyundai,I30 I,2010,Diesel,1600.0,184817.0,19999.0,Mazowieckie
+369,Volkswagen,Touran I,2009,Diesel,1900.0,185000.0,27900.0,Śląskie
+370,Alfa Romeo,159,2007,Diesel,1900.0,190000.0,19000.0,Mazowieckie
+371,Honda,Jazz II,2005,Benzyna,1246.0,112349.0,14800.0,Warmińsko-mazurskie
+372,Peugeot,206,2004,Benzyna,1600.0,181000.0,8900.0,Małopolskie
+373,Opel,Insignia A,2014,Diesel,1956.0,110456.0,69900.0,Podkarpackie
+374,Peugeot,207,2008,Benzyna,1400.0,109000.0,16900.0,Wielkopolskie
+375,Suzuki,Swift V,2011,Benzyna,1242.0,118000.0,21900.0,Śląskie
+376,Volkswagen,Passat B8,2017,Diesel,1968.0,1.0,140500.0,Łódzkie
+377,Honda,HR-V II,2017,Benzyna,1500.0,1.0,88300.0,Mazowieckie
+378,BMW,Seria 3 E46,2002,Diesel,2000.0,309500.0,10900.0,Podkarpackie
+379,Opel,Astra H,2008,Benzyna,1598.0,104000.0,23900.0,Łódzkie
+380,Renault,Espace IV,2004,Benzyna+LPG,2000.0,260000.0,12900.0,Lubelskie
+381,BMW,Seria 3 E46,1998,Diesel,1951.0,270000.0,6500.0,Dolnośląskie
+382,Audi,A6 C6,2008,Diesel,2000.0,248000.0,27900.0,Mazowieckie
+383,Škoda,Citigo,2016,Benzyna,999.0,5300.0,31400.0,Wielkopolskie
+384,Toyota,Auris I,2011,Benzyna,1398.0,143700.0,29900.0,Mazowieckie
+385,Honda,Jazz II,2004,Benzyna,1246.0,140508.0,10900.0,Mazowieckie
+386,Opel,Vectra C,2006,Diesel,1900.0,307400.0,16900.0,Łódzkie
+387,BMW,Seria 3 E46,2003,Benzyna,2200.0,165000.0,30900.0,Śląskie
+388,Opel,Corsa E,2016,Benzyna,1398.0,21526.0,39900.0,Opolskie
+389,Mercedes-Benz,Klasa E W212,2011,Diesel,2987.0,163800.0,79900.0,Kujawsko-pomorskie
+390,Volkswagen,Passat B6,2006,Diesel,2000.0,240000.0,16500.0,Pomorskie
+391,Opel,Vectra C,2007,Diesel,1910.0,189000.0,22900.0,Małopolskie
+392,Chevrolet,Trailblazer,2003,Benzyna,4200.0,260000.0,24900.0,Dolnośląskie
+393,Volkswagen,Touareg II,2016,Diesel,2967.0,9000.0,297000.0,Pomorskie
+394,Audi,A3 8V,2016,Benzyna,1395.0,10.0,96698.0,Warmińsko-mazurskie
+395,Seat,Leon III,2016,Benzyna,1200.0,7.0,60990.0,Podkarpackie
+396,Opel,Zafira A,2003,Benzyna,1600.0,208000.0,8400.0,Małopolskie
+397,Toyota,Yaris III,2013,Benzyna+LPG,1300.0,20700.0,26999.0,Pomorskie
+398,Opel,Astra J,2015,Diesel,1700.0,110000.0,37761.0,Wielkopolskie
+399,Ford,Focus Mk2,2004,Benzyna,1560.0,188497.0,8990.0,Śląskie
+400,Chevrolet,Cruze,2011,Benzyna+LPG,1600.0,165000.0,25900.0,Kujawsko-pomorskie
+401,Dacia,Sandero Stepway,2012,Benzyna,1600.0,120000.0,23900.0,Małopolskie
+402,Mercedes-Benz,Vaneo,2003,Benzyna,1894.0,178000.0,8900.0,Śląskie
+403,Mitsubishi,ASX,2014,Benzyna,1590.0,38600.0,57900.0,Pomorskie
+404,Opel,Astra J,2009,Diesel,1700.0,201000.0,26300.0,Pomorskie
+405,Mercedes-Benz,SL R231,2016,Benzyna,4663.0,2000.0,616000.0,Mazowieckie
+406,Kia,Cee'd I,2009,Benzyna,1400.0,172124.0,19900.0,Mazowieckie
+407,Nissan,Terrano II,2001,Diesel,2687.0,136825.0,16900.0,Lubelskie
+408,Peugeot,308 T8,2013,Diesel,1560.0,135000.0,42000.0,Mazowieckie
+409,Hyundai,i10 II,2017,Benzyna,1000.0,12.0,45000.0,Śląskie
+410,BMW,Seria 7 G11/12,2017,Hybryda,2000.0,10000.0,469900.0,Mazowieckie
+411,Opel,Astra H,2006,Benzyna+LPG,1400.0,177231.0,12900.0,Łódzkie
+412,Opel,Astra K,2016,Benzyna,1399.0,29000.0,54990.0,Dolnośląskie
+413,Mercedes-Benz,Klasa S W222,2017,Diesel,2925.0,1.0,359000.0,Śląskie
+414,Hyundai,I30 II,2015,Diesel,1400.0,66357.0,42900.0,Małopolskie
+415,Audi,A5 8T,2011.0,Benzyna,1984.0,167000.0,69900.0,Opolskie
+416,Opel,Insignia A,2013,Diesel,2000.0,112500.0,51900.0,Śląskie
+417,Kia,Sportage II,2009,Diesel,2000.0,163620.0,29900.0,Warmińsko-mazurskie
+418,Škoda,Octavia II,2007,Diesel,1900.0,199000.0,17900.0,Śląskie
+419,Citroën,C4 Picasso II,2014.0,Diesel,1600.0,155235.0,44900.0,Mazowieckie
+420,Seat,Ibiza IV,2009,Benzyna,1200.0,128000.0,21900.0,Małopolskie
+421,Hyundai,Tucson II,2017,Benzyna,1591.0,5.0,78090.0,Lubuskie
+422,Toyota,Auris I,2007,Diesel,1998.0,160000.0,21999.0,Mazowieckie
+423,Renault,Laguna III,2013,Diesel,2000.0,206231.0,33900.0,Mazowieckie
+424,Mini,ONE,2006,Benzyna,1600.0,109800.0,19900.0,Kujawsko-pomorskie
+425,Renault,Espace V,2017,Benzyna,1600.0,1.0,175300.0,Mazowieckie
+426,Mercedes-Benz,ML W164,2007,Benzyna,3500.0,223000.0,55000.0,Śląskie
+427,Citroën,C1 I,2006,Benzyna,998.0,109647.0,7990.0,Wielkopolskie
+428,Ford,Mondeo Mk3,2004,Benzyna,1798.0,186887.0,10999.0,Kujawsko-pomorskie
+429,BMW,Seria 5 F10,2016,Diesel,1998.0,10935.0,204900.0,Kujawsko-pomorskie
+430,Honda,Civic X,2017,Benzyna,1498.0,5.0,99200.0,Wielkopolskie
+431,Volkswagen,Tiguan II,2017,Diesel,1968.0,5.0,198500.0,Mazowieckie
+432,Peugeot,Partner II,2017,Diesel,1560.0,1.0,71900.0,Śląskie
+433,Dacia,Sandero II,2016,Benzyna+LPG,899.0,1.0,49000.0,Świętokrzyskie
+434,Mercedes-Benz,ML W164,2007,Diesel,2987.0,125000.0,49900.0,Mazowieckie
+435,Chevrolet,Captiva,2012,Diesel,2200.0,208000.0,47900.0,Mazowieckie
+436,Lancia,Ypsilon,2007,Diesel,1248.0,135800.0,12900.0,Mazowieckie
+437,Ford,Mondeo Mk3,2007,Diesel,2000.0,246000.0,10900.0,Dolnośląskie
+438,Audi,A3 8V,2015,Benzyna,1395.0,11200.0,84500.0,Łódzkie
+439,Volkswagen,Jetta A5,2006,Diesel,1900.0,204567.0,19499.0,Wielkopolskie
+440,Mazda,MX-5,2006.0,Benzyna,1800.0,107000.0,23500.0,Śląskie
+441,Kia,Sportage III,2013,Benzyna,1998.0,80000.0,63900.0,Śląskie
+442,Kia,Cee'd I,2011,Diesel,1600.0,317542.0,15900.0,Opolskie
+443,Fiat,Qubo,2009,Diesel,1300.0,120300.0,16500.0,Dolnośląskie
+444,Citroën,Berlingo II,2008,Diesel,1560.0,198700.0,21900.0,Małopolskie
+445,Mercedes-Benz,ML W166,2012,Diesel,2998.0,209000.0,139900.0,Śląskie
+446,Peugeot,407,2005,Benzyna,1997.0,156000.0,14600.0,Śląskie
+447,BMW,Seria 5 F10,2011,Diesel,1995.0,248000.0,72900.0,Wielkopolskie
+448,Nissan,Juke,2010,Benzyna,1600.0,86000.0,39400.0,Śląskie
+449,Seat,Ibiza III,2007,Benzyna,1400.0,173410.0,13800.0,Małopolskie
+450,Mercedes-Benz,Klasa C W205,2014,Diesel,2143.0,104100.0,139900.0,Małopolskie
+451,Volkswagen,Golf V,2006,Diesel,1896.0,212000.0,18999.0,Lubuskie
+452,BMW,Seria 3 E46,2001,Benzyna,2200.0,214348.0,17900.0,Kujawsko-pomorskie
+453,Škoda,Fabia I,2004,Benzyna,1400.0,175000.0,11900.0,Małopolskie
+454,Mercedes-Benz,GLA,2017,Benzyna,1595.0,1.0,148588.0,Śląskie
+455,Ford,Focus Mk2,2008,Diesel,1600.0,190000.0,17500.0,Wielkopolskie
+456,Renault,Laguna I,1995,Benzyna,2000.0,120000.0,5999.0,Łódzkie
+457,Citroën,C4 I,2008,Diesel,1600.0,159000.0,15900.0,Lubelskie
+458,Hyundai,Santa Fe II,2007,Diesel,2200.0,200000.0,31900.0,Mazowieckie
+459,Audi,A6 C6,2010,Diesel,2000.0,216500.0,47800.0,Śląskie
+460,Volkswagen,Golf V,2007,Diesel,1900.0,187600.0,16900.0,Śląskie
+461,Audi,A4 B8,2013,Diesel,2000.0,198000.0,58900.0,Mazowieckie
+462,Volkswagen,Passat CC,2010,Diesel,2000.0,227000.0,49900.0,Mazowieckie
+463,Opel,Insignia A,2014,Diesel,2000.0,170000.0,52900.0,Zachodniopomorskie
+464,BMW,Seria 4,2016,Diesel,1995.0,24900.0,149900.0,Małopolskie
+465,Mini,Cooper S,2017,Benzyna,1998.0,5.0,126500.0,Mazowieckie
+466,Fiat,Freemont,2014,Diesel,1956.0,128000.0,68800.0,Wielkopolskie
+467,Opel,Astra H,2005,Diesel,1900.0,148000.0,12900.0,Lubuskie
+468,Kia,Sportage III,2012,Diesel,2000.0,149000.0,53900.0,Świętokrzyskie
+469,Mitsubishi,ASX,2016,Benzyna,1600.0,2031.0,69900.0,Mazowieckie
+470,Kia,Cee'd II,2014,Diesel,1600.0,164000.0,37900.0,Wielkopolskie
+471,Volkswagen,Touran I,2005,Diesel,1896.0,149000.0,22000.0,Śląskie
+472,Nissan,Qashqai II,2017,Diesel,1600.0,1.0,90396.0,Zachodniopomorskie
+473,Audi,Q5 8R,2013,Diesel,1998.0,150000.0,107700.0,Mazowieckie
+474,Hyundai,I30 I,2009,Benzyna,1400.0,123000.0,20900.0,Wielkopolskie
+475,Opel,Meriva II,2017,Benzyna,1400.0,5.0,54200.0,Mazowieckie
+476,Lexus,GS III,2006,Hybryda,3500.0,125000.0,48000.0,Mazowieckie
+477,Volvo,XC 90 I,2003,Benzyna,2500.0,244000.0,26900.0,Lubelskie
+478,Dacia,Duster,2017,Benzyna,1598.0,2.0,50200.0,Śląskie
+479,Seat,Altea XL,2006,Benzyna,1600.0,157000.0,22900.0,Małopolskie
+480,Renault,Grand Scenic II,2008,Benzyna,1598.0,182000.0,15900.0,Kujawsko-pomorskie
+481,Renault,Clio III,2008,Benzyna,1149.0,87900.0,12700.0,Łódzkie
+482,Volkswagen,Touran I,2008,Benzyna,1400.0,229000.0,24900.0,Zachodniopomorskie
+483,BMW,Seria 3 F30,2012,Diesel,1995.0,169000.0,62900.0,Lubuskie
+484,Opel,Senator,1986,Benzyna,3000.0,89000.0,14999.0,Podkarpackie
+485,Hyundai,I30 II,2014,Diesel,1582.0,152000.0,41800.0,Wielkopolskie
+486,Škoda,Fabia I,2001,Benzyna,1397.0,182000.0,7800.0,Mazowieckie
+487,Mitsubishi,Colt CJ0,2002,Benzyna,1299.0,282000.0,2200.0,Dolnośląskie
+488,Toyota,Yaris III,2013,Benzyna,998.0,50100.0,32500.0,Mazowieckie
+489,Volkswagen,Golf VII,2013,Diesel,1968.0,72373.0,59990.0,Wielkopolskie
+490,Audi,A5 F5,2017,Diesel,1968.0,8.0,223337.0,Podkarpackie
+491,Ford,Focus Mk2,2005,Diesel,1600.0,180739.0,7900.0,Mazowieckie
+492,Volkswagen,Touran III,2017,Benzyna,1400.0,5.0,107400.0,Łódzkie
+493,Mercedes-Benz,Klasa C W203,2003,Benzyna,1800.0,197000.0,13700.0,Mazowieckie
+494,Peugeot,206 CC,2001,Benzyna,1998.0,154317.0,7200.0,Dolnośląskie
+495,Renault,Clio III,2008,Benzyna,1200.0,102000.0,15800.0,Łódzkie
+496,Opel,Astra H,2010,Benzyna,1600.0,96000.0,38500.0,Małopolskie
+497,Fiat,Brava,1998,Benzyna,1400.0,136000.0,900.0,Śląskie
+498,Subaru,Impreza GD,2004,Benzyna,1600.0,141000.0,8000.0,Łódzkie
+499,BMW,X4,2017,Diesel,1995.0,2.0,254000.0,Małopolskie
+500,Volkswagen,Golf V,2007,Diesel,1896.0,171000.0,20900.0,Wielkopolskie
+501,Opel,Meriva I,2004,Benzyna,1800.0,153000.0,11900.0,Łódzkie
+502,Volkswagen,Beetle,2012,Benzyna,1390.0,35000.0,42900.0,Śląskie
+503,Toyota,Avensis II,2007,Benzyna,2362.0,190000.0,17900.0,Mazowieckie
+504,Ford,EDGE,2017,Diesel,1997.0,1.0,208400.0,Wielkopolskie
+505,Mercedes-Benz,Klasa B W245,2007,Diesel,1992.0,108870.0,21900.0,Łódzkie
+506,Peugeot,307 I,2004,Benzyna,1360.0,136000.0,9800.0,Pomorskie
+507,Renault,Laguna II,2001,Benzyna,1800.0,264000.0,5900.0,Mazowieckie
+508,Fiat,Tipo II,2017,Benzyna,1368.0,1.0,44900.0,Pomorskie
+509,Renault,Scenic II,2005,Diesel,1461.0,202000.0,10600.0,Małopolskie
+510,Toyota,Avensis II,2003,Diesel,2000.0,164000.0,14300.0,Małopolskie
+511,Opel,Insignia A,2015,Diesel,1967.0,161199.0,51000.0,Wielkopolskie
+512,Mitsubishi,Outlander II,2007,Diesel,1968.0,196000.0,29500.0,Śląskie
+513,Mitsubishi,Outlander II,2010,Diesel,1968.0,165000.0,48880.0,Lubuskie
+514,Škoda,Octavia I,2007,Benzyna,1600.0,156000.0,19900.0,Śląskie
+515,Opel,Astra H,2008,Benzyna,1600.0,100500.0,21900.0,Łódzkie
+516,SsangYong,Tivoli,2016,Benzyna,1600.0,1.0,70990.0,Dolnośląskie
+517,Audi,RS7,2016,Benzyna,3993.0,10000.0,514000.0,Mazowieckie
+518,Opel,Zafira A,2001,Benzyna,1598.0,202300.0,6900.0,Kujawsko-pomorskie
+519,Volkswagen,Golf VII,2016,Benzyna,1197.0,14708.0,58900.0,Mazowieckie
+520,Volkswagen,Golf Plus,2007,Diesel,1896.0,227000.0,20900.0,Dolnośląskie
+521,Opel,Astra G,2001,Benzyna,1600.0,230000.0,6900.0,Mazowieckie
+522,Seat,Alhambra I,2008,Diesel,1968.0,280000.0,22000.0,Wielkopolskie
+523,Hyundai,Tucson I,2006,Diesel,2000.0,180000.0,22700.0,Świętokrzyskie
+524,Opel,Corsa D,2010,Benzyna,1400.0,157000.0,20800.0,Mazowieckie
+525,Mazda,3 III,2016,Benzyna,1998.0,1.0,91175.0,Pomorskie
+526,Mercedes-Benz,Klasa C W205,2017,Benzyna,1991.0,15.0,212851.0,Dolnośląskie
+527,Mini,ONE,2002,Benzyna,1598.0,184000.0,9750.0,Pomorskie
+528,Kia,Carens III,2007,Benzyna,1998.0,144000.0,17900.0,Wielkopolskie
+529,Honda,CR-V III,2012,Benzyna,2000.0,71000.0,69900.0,Małopolskie
+530,Seat,Altea XL,2008,Benzyna,1800.0,204800.0,21300.0,Kujawsko-pomorskie
+531,Ford,Galaxy Mk2,2006,Diesel,1753.0,165000.0,23900.0,Lubelskie
+532,Chrysler,Sebring,2002,Benzyna,2736.0,112070.0,9999.0,Mazowieckie
+533,Škoda,Fabia I,2006,Benzyna,1200.0,178050.0,7900.0,Pomorskie
+534,Peugeot,306,1999,Benzyna,1600.0,97700.0,3999.0,Wielkopolskie
+535,Toyota,Auris II,2015,Benzyna,1598.0,57000.0,54900.0,Śląskie
+536,Seat,Leon III,2014,Diesel,2000.0,147912.0,66700.0,Małopolskie
+537,Mazda,6 I,2005.0,Benzyna,1800.0,145000.0,15700.0,Lubuskie
+538,Opel,Vectra C,2007,Diesel,1900.0,315000.0,7800.0,Dolnośląskie
+539,Chevrolet,Epica,2009,Diesel,1991.0,197000.0,14900.0,Zachodniopomorskie
+540,Toyota,Avensis III,2011,Benzyna,1798.0,117000.0,46500.0,Podlaskie
+541,Hyundai,Tucson II,2017,Benzyna,1591.0,5.0,93590.0,Małopolskie
+542,Toyota,Auris II,2014,Hybryda,1798.0,70500.0,67900.0,Mazowieckie
+543,Mercedes-Benz,Klasa A W169,2005,Diesel,1991.0,70400.0,16900.0,Mazowieckie
+544,Toyota,Corolla Seria,1998,Benzyna,1332.0,240000.0,5300.0,Mazowieckie
+545,Audi,A3 8P,2005,Benzyna,1984.0,191000.0,25900.0,Dolnośląskie
+546,Volkswagen,up!,2017,Benzyna,999.0,1.0,41400.0,Łódzkie
+547,Volvo,XC 90 I,2008,Diesel,2400.0,308000.0,45900.0,Kujawsko-pomorskie
+548,Ligier,X - Too,2007,Diesel,505.0,49000.0,14400.0,Wielkopolskie
+549,Ford,S-Max I,2013,Diesel,2000.0,187000.0,47900.0,Wielkopolskie
+550,Renault,Captur,2016,Diesel,1461.0,27626.0,51900.0,Dolnośląskie
+551,BMW,X6 E71,2009,Diesel,3000.0,220000.0,94900.0,Mazowieckie
+552,BMW,Seria 5 G30,2017,Diesel,2993.0,2000.0,387000.0,Podlaskie
+553,Škoda,Kodiaq,2017,Diesel,2000.0,5.0,143500.0,Kujawsko-pomorskie
+554,Kia,Sportage III,2012,Diesel,1685.0,167000.0,59000.0,Kujawsko-pomorskie
+555,Fiat,Grande Punto,2006,Benzyna,1400.0,112000.0,12600.0,Łódzkie
+556,Renault,Laguna III,2010,Diesel,1995.0,183000.0,25900.0,Mazowieckie
+557,Citroën,C8,2003,Benzyna,2000.0,153000.0,9400.0,Małopolskie
+558,Opel,Meriva II,2011,Diesel,1686.0,177200.0,26300.0,Mazowieckie
+559,BMW,Seria 5 F10,2016,Diesel,2000.0,11300.0,199900.0,Mazowieckie
+560,Audi,A4 B7,2006,Benzyna,1600.0,152907.0,24100.0,Świętokrzyskie
+561,Volkswagen,Passat B8,2017,Diesel,1598.0,1.0,95300.0,Pomorskie
+562,Suzuki,Grand Vitara II,2006,Benzyna,1995.0,138000.0,27900.0,Zachodniopomorskie
+563,Audi,Q5 8R,2015,Diesel,2000.0,40000.0,155000.0,Warmińsko-mazurskie
+564,Audi,A3 8L,1999,Benzyna,1800.0,144000.0,6900.0,Wielkopolskie
+565,Honda,Civic VII,2001,Benzyna,1700.0,180000.0,8500.0,Łódzkie
+566,Citroën,C4 Picasso II,2015,Diesel,1600.0,156000.0,38500.0,Dolnośląskie
+567,BMW,X5 E70,2007,Diesel,3000.0,242000.0,64500.0,Lubelskie
+568,Toyota,Yaris Verso,2002,Benzyna,1497.0,167459.0,7700.0,Dolnośląskie
+569,Volkswagen,Passat B8,2017.0,Diesel,1968.0,1.0,115900.0,Łódzkie
+570,BMW,Seria 3 E46,2002,Diesel,1995.0,248140.0,12500.0,Zachodniopomorskie
+571,Opel,Zafira C,2017,Benzyna,1400.0,1.0,85050.0,Mazowieckie
+572,Lexus,IS I,2002,Benzyna,1988.0,207000.0,20500.0,Dolnośląskie
+573,Opel,Astra J,2014.0,Benzyna,1600.0,64000.0,45900.0,Dolnośląskie
+574,Opel,Zafira A,2004,Diesel,2200.0,221000.0,9399.0,Pomorskie
+575,Volkswagen,Polo IV,2003,Benzyna,1198.0,146740.0,7699.0,Lubelskie
+576,Nissan,Primera P12,2003,Diesel,1870.0,241316.0,10599.0,Zachodniopomorskie
+577,Nissan,X-Trail I,2003,Benzyna,1998.0,186000.0,15990.0,Zachodniopomorskie
+578,Škoda,Octavia I,2003,Benzyna,1595.0,110654.0,10900.0,Warmińsko-mazurskie
+579,Mercedes-Benz,CLK W208,2000,Benzyna,1991.0,180000.0,10500.0,Podkarpackie
+580,Toyota,Avensis II,2005,Diesel,2200.0,197450.0,16900.0,Świętokrzyskie
+581,Citroën,C3 I,2004,Benzyna,1124.0,116000.0,8900.0,Opolskie
+582,Ford,C-MAX I,2007,Diesel,1560.0,167300.0,13900.0,Wielkopolskie
+583,Renault,Clio III,2006,Benzyna,1600.0,173500.0,13999.0,Śląskie
+584,Opel,Meriva II,2017,Benzyna,1400.0,3.0,51990.0,Podkarpackie
+585,Renault,Espace IV,2004,Benzyna,2000.0,250000.0,8900.0,Lubelskie
+586,Mercedes-Benz,Klasa G W463,2013,Benzyna,5500.0,4900.0,579000.0,Pomorskie
+587,BMW,Seria 3 E30,1993,Benzyna,1796.0,81000.0,26500.0,Małopolskie
+588,Ford,Mondeo Mk5,2017,Diesel,2000.0,11.0,95900.0,Podkarpackie
+589,Opel,Mokka,2014,Benzyna+LPG,1400.0,71083.0,59899.0,Śląskie
+590,Citroën,C5 I,2001,Benzyna,1800.0,215166.0,5800.0,Świętokrzyskie
+591,Volkswagen,Passat B5,1999,Diesel,1900.0,250000.0,4800.0,Mazowieckie
+592,Toyota,Auris I,2008,Diesel,1400.0,240000.0,22900.0,Dolnośląskie
+593,Ford,Fiesta Mk6,2004,Benzyna,1300.0,85000.0,8000.0,Pomorskie
+594,Nissan,Micra K14,2017,Benzyna,900.0,1999.0,61900.0,Śląskie
+595,Citroën,C4 I,2007,Benzyna,1600.0,188000.0,13999.0,Wielkopolskie
+596,Citroën,C4 I,2005,Benzyna,1400.0,134000.0,10700.0,Mazowieckie
+597,Mazda,CX-5,2014,Diesel,2191.0,59000.0,105700.0,Mazowieckie
+598,Nissan,Qashqai+2,2010,Diesel,2000.0,158000.0,42500.0,Świętokrzyskie
+599,Opel,Astra H,2004,Benzyna,1364.0,174215.0,11400.0,Warmińsko-mazurskie
+600,Audi,A4 B9,2016,Diesel,1968.0,33000.0,158500.0,Wielkopolskie
+601,Suzuki,Samurai,2002,Diesel,1870.0,125000.0,14200.0,Śląskie
+602,Toyota,Yaris I,2004,Diesel,1400.0,172000.0,12900.0,Podkarpackie
+603,BMW,Seria 5 E60,2004,Diesel,2993.0,283000.0,21900.0,Pomorskie
+604,Citroën,C4 I,2006,Benzyna,1400.0,66000.0,8900.0,Wielkopolskie
+605,Nissan,Micra K12,2007,Benzyna,1240.0,125000.0,11999.0,Śląskie
+606,Ford,Focus Mk2,2007,Diesel,2000.0,219000.0,23500.0,Warmińsko-mazurskie
+607,Renault,Kadjar,2016.0,Benzyna,1197.0,20153.0,72900.0,Dolnośląskie
+608,Opel,Astra J,2012,Diesel,1686.0,228204.0,29900.0,Małopolskie
+609,BMW,X5 F15,2017,Diesel,1995.0,1.0,298900.0,Małopolskie
+610,Peugeot,307 I,2003,Benzyna,1600.0,192400.0,7900.0,Mazowieckie
+611,Chevrolet,Camaro,1979,Benzyna,4903.0,99999.0,36000.0,Dolnośląskie
+612,Toyota,Yaris II,2006,Benzyna,1000.0,197000.0,13499.0,Mazowieckie
+613,Renault,Megane IV,2016,Diesel,1461.0,12300.0,59900.0,Śląskie
+614,Mercedes-Benz,ML W164,2010,Diesel,2987.0,180700.0,89900.0,Małopolskie
+615,Mazda,6 I,2005,Diesel,1991.0,203000.0,9100.0,Świętokrzyskie
+616,Opel,Insignia A,2009,Benzyna,1800.0,152000.0,34900.0,Lubelskie
+617,Toyota,Aygo II,2016,Benzyna,998.0,16932.0,42500.0,Łódzkie
+618,Audi,A4 B6,2000,Diesel,1896.0,276107.0,9800.0,Lubelskie
+619,BMW,Seria 4,2014,Diesel,2993.0,14000.0,214000.0,Mazowieckie
+620,Audi,A3 8P,2010,Diesel,1598.0,165000.0,44800.0,Podkarpackie
+621,Toyota,Avensis III,2014,Benzyna,1798.0,37535.0,74900.0,Zachodniopomorskie
+622,Audi,A6 C7,2017,Diesel,2000.0,4.0,178130.0,Pomorskie
+623,Honda,Civic X,2013,Benzyna,1800.0,46000.0,49900.0,Dolnośląskie
+624,Opel,Astra G,2003,Benzyna,1600.0,128411.0,7999.0,Świętokrzyskie
+625,BMW,Seria 3 E46,1998,Benzyna,1895.0,183000.0,7900.0,Śląskie
+626,Mitsubishi,Colt CJ0,1997,Benzyna,1300.0,219000.0,899.0,Zachodniopomorskie
+627,Opel,Astra G,2001,Benzyna,1598.0,180000.0,5900.0,Zachodniopomorskie
+628,Mitsubishi,Outlander II,2007,Diesel,1968.0,195000.0,31900.0,Śląskie
+629,Fiat,Grande Punto,2006,Benzyna,1400.0,179000.0,10400.0,Dolnośląskie
+630,Opel,Corsa D,2014,Benzyna+LPG,1398.0,45080.0,31990.0,Śląskie
+631,Nissan,Qashqai II,2017,Benzyna,1200.0,1.0,74900.0,Mazowieckie
+632,Volkswagen,Tiguan I,2014,Diesel,1968.0,160000.0,65900.0,Mazowieckie
+633,Toyota,Yaris II,2007,Benzyna,1800.0,149500.0,19500.0,Lubelskie
+634,Opel,Astra H,2005,Benzyna+LPG,1598.0,189000.0,15700.0,Łódzkie
+635,Audi,A6 C7,2017,Diesel,1998.0,13.0,198880.0,Podlaskie
+636,BMW,Seria 3 E46,2001,Benzyna,1790.0,220000.0,6999.0,Opolskie
+637,Nissan,Almera N16,2002,Benzyna,1500.0,268207.0,7490.0,Lubelskie
+638,Opel,Insignia B,2017,Benzyna,1500.0,2.0,116850.0,Śląskie
+639,Kia,Sportage III,2011,Benzyna,1998.0,100000.0,52900.0,Świętokrzyskie
+640,Ford,C-MAX I,2008,Diesel,1997.0,136814.0,22500.0,Podkarpackie
+641,Volkswagen,Passat B6,2009,Benzyna,2000.0,129000.0,37700.0,Podlaskie
+642,Toyota,RAV4 IV,2015,Diesel,1998.0,18000.0,109900.0,Pomorskie
+643,Audi,RS6,2015,Benzyna,3993.0,29800.0,449000.0,Mazowieckie
+644,Opel,Meriva I,2005,Benzyna,1600.0,143000.0,11900.0,Warmińsko-mazurskie
+645,Hyundai,Sonata,2006,Diesel,2000.0,166000.0,14500.0,Podlaskie
+646,Mercedes-Benz,Klasa E W213,2017,Diesel,1950.0,9500.0,198565.0,Mazowieckie
+647,Peugeot,208,2016,Benzyna,1199.0,6500.0,42900.0,Podkarpackie
+648,Seat,Altea XL,2009,Diesel,1900.0,212000.0,20900.0,Łódzkie
+649,Opel,Meriva II,2011,Benzyna,1400.0,119000.0,29999.0,Wielkopolskie
+650,Mercedes-Benz,W124 (1984-1993),1988,Benzyna,2300.0,270000.0,11900.0,Mazowieckie
+651,Renault,Fluence,2013,Benzyna,1598.0,40000.0,41000.0,Warmińsko-mazurskie
+652,Mazda,6 I,2003,Benzyna,1798.0,165000.0,10500.0,Świętokrzyskie
+653,Audi,A3 8P,2009,Diesel,1598.0,189123.0,36999.0,Dolnośląskie
+654,Volkswagen,Polo IV,2009,Benzyna,1200.0,154000.0,15999.0,Śląskie
+655,Jeep,Compass,2017,Benzyna,1368.0,1.0,110900.0,Małopolskie
+656,Opel,Adam,2017,Benzyna,1400.0,1.0,58900.0,Lubuskie
+657,Daewoo,Espero,1996,Benzyna,1795.0,133300.0,3200.0,Mazowieckie
+658,BMW,Seria 3 E36,1999,Benzyna,1600.0,287247.0,2500.0,Świętokrzyskie
+659,Ford,Galaxy Mk2,2006,Diesel,1800.0,215000.0,23900.0,Lubuskie
+660,Ford,Mondeo Mk4,2012,Diesel,1560.0,163541.0,33900.0,Mazowieckie
+661,BMW,Seria 3 E90,2007,Benzyna,1995.0,123000.0,19900.0,Lubuskie
+662,Renault,Megane III,2012,Diesel,1500.0,138000.0,28900.0,Łódzkie
+663,Seat,Altea,2012,Diesel,1600.0,134892.0,26900.0,Pomorskie
+664,Toyota,Verso,2010,Diesel,2000.0,198000.0,32900.0,Dolnośląskie
+665,Seat,Ibiza III,2005,Benzyna,1390.0,118000.0,9900.0,Lubelskie
+666,Nissan,Note I,2010,Benzyna,1400.0,107000.0,21500.0,Mazowieckie
+667,Mazda,3 I,2007,Diesel,1600.0,135000.0,13900.0,Małopolskie
+668,Opel,Corsa D,2007,Diesel,1300.0,140000.0,14000.0,Śląskie
+669,Volkswagen,Golf V,2006.0,Diesel,1900.0,251000.0,16900.0,Lubelskie
+670,Audi,A6 C7,2013,Diesel,2000.0,178000.0,99000.0,Pomorskie
+671,Renault,Laguna III,2008,Diesel,1461.0,189000.0,15800.0,Wielkopolskie
+672,Ford,Mondeo Mk3,2003,Benzyna,2000.0,197000.0,9300.0,Małopolskie
+673,Volvo,S60 II,2011,Diesel,1997.0,120000.0,47999.0,Lubuskie
+674,Honda,Civic VII,2005,Benzyna,1590.0,172000.0,13900.0,Małopolskie
+675,Volkswagen,Golf V,2007,Diesel,1968.0,160000.0,17500.0,Podkarpackie
+676,Renault,Captur,2016,Diesel,1461.0,31000.0,52900.0,Pomorskie
+677,Ford,Fiesta Mk6,2008,Benzyna,1300.0,105600.0,12400.0,Wielkopolskie
+678,Volkswagen,Touran II,2011,Benzyna,1400.0,59000.0,41900.0,Lubuskie
+679,Opel,Zafira B,2008,Diesel,1900.0,137000.0,19800.0,Kujawsko-pomorskie
+680,Toyota,Auris II,2016,Hybryda,1798.0,11500.0,78900.0,Mazowieckie
+681,Mercedes-Benz,Klasa B W246,2017,Diesel,1461.0,5.0,137000.0,Wielkopolskie
+682,Ford,Transit Custom,2016,Diesel,1995.0,41581.0,94900.0,Pomorskie
+683,Opel,Vectra C,2005,Diesel,1900.0,159000.0,14900.0,Małopolskie
+684,Mercedes-Benz,CLS C219,2009,Diesel,2987.0,115000.0,71900.0,Lubuskie
+685,Volvo,S60 II,2016,Benzyna,1969.0,7.0,232000.0,Śląskie
+686,Škoda,Fabia II,2009,Benzyna,1186.0,137400.0,15600.0,Pomorskie
+687,Toyota,Yaris III,2016,Hybryda,1500.0,24500.0,54700.0,Kujawsko-pomorskie
+688,Opel,Zafira B,2005,Diesel,1900.0,227000.0,14900.0,Śląskie
+689,Toyota,Prius III,2010,Hybryda,1800.0,166800.0,39900.0,Mazowieckie
+690,Peugeot,207,2007,Benzyna,1400.0,96234.0,14900.0,Śląskie
+691,Volvo,XC 70,2005,Diesel,2401.0,184030.0,28900.0,Warmińsko-mazurskie
+692,Fiat,500L,2013,Benzyna,900.0,72700.0,32900.0,Śląskie
+693,Citroën,C4 Grand Picasso I,2009,Diesel,1560.0,178198.0,21300.0,Pomorskie
+694,Peugeot,308 T8,2014,Diesel,1560.0,153000.0,42800.0,Małopolskie
+695,Hyundai,Matrix,2005,Diesel,1493.0,174000.0,8800.0,Lubelskie
+696,Renault,Megane IV,2017,Benzyna,1598.0,15.0,68880.0,Mazowieckie
+697,BMW,Seria 5 F10,2011,Diesel,3000.0,200000.0,139900.0,Wielkopolskie
+698,Fiat,Stilo,2006,Diesel,1910.0,300000.0,8900.0,Śląskie
+699,BMW,Seria 3 E46,1999,Diesel,1950.0,288000.0,7700.0,Śląskie
+700,Mazda,6 I,2004,Diesel,1998.0,124000.0,9900.0,Lubuskie
+701,Opel,Astra H,2005,Benzyna,1800.0,160000.0,16500.0,Kujawsko-pomorskie
+702,Audi,A6 C6,2004,Diesel,3000.0,243000.0,32000.0,Kujawsko-pomorskie
+703,Nissan,Qashqai II,2017,Benzyna,1197.0,1.0,83992.0,Śląskie
+704,Mercedes-Benz,Klasa S W126,1984,Benzyna,5000.0,284205.0,37500.0,Lubelskie
+705,Alfa Romeo,Spider,1995,Benzyna+LPG,2000.0,175000.0,10000.0,Małopolskie
+706,Citroën,C4 Picasso I,2009,Benzyna,1600.0,146170.0,25900.0,Pomorskie
+707,Mercedes-Benz,ML W164,2005,Diesel,3200.0,276000.0,41999.0,Pomorskie
+708,Volvo,V70 II,2003,Benzyna,2400.0,356328.0,11800.0,Świętokrzyskie
+709,Audi,A4 B7,2007,Diesel,2000.0,196507.0,26900.0,Kujawsko-pomorskie
+710,Honda,CR-V IV,2017,Benzyna,2000.0,1.0,132200.0,Mazowieckie
+711,Peugeot,Partner II,2012,Diesel,1600.0,230000.0,24800.0,Wielkopolskie
+712,Mini,ONE,2004,Benzyna,1598.0,121000.0,13900.0,Lubuskie
+713,Peugeot,508,2017,Diesel,1997.0,3940.0,134900.0,Wielkopolskie
+714,BMW,X3 E83,2008,Diesel,1995.0,198300.0,36500.0,Mazowieckie
+715,Audi,A4 B7,2006,Benzyna,2000.0,132000.0,29600.0,Podlaskie
+716,BMW,Seria 1 F20,2016,Diesel,1496.0,9300.0,99000.0,Pomorskie
+717,Mercedes-Benz,ML W164,2008,Diesel,2987.0,259000.0,58900.0,Mazowieckie
+718,Volkswagen,Tiguan II,2017,Benzyna,1968.0,5.0,176600.0,Łódzkie
+719,Toyota,RAV4 IV,2016,Hybryda,2494.0,16171.0,145900.0,Śląskie
+720,Opel,Vectra C,2007,Diesel,1910.0,209000.0,20500.0,Mazowieckie
+721,Nissan,Almera N16,2005,Benzyna,1497.0,154285.0,9900.0,Warmińsko-mazurskie
+722,Ford,Mondeo Mk4,2015,Diesel,1997.0,170000.0,50999.0,Wielkopolskie
+723,Honda,Civic X,2017,Benzyna,1498.0,5.0,98000.0,Wielkopolskie
+724,Opel,Tigra II,2005,Benzyna,1800.0,162000.0,9800.0,Lubelskie
+725,Mazda,2 III,2016,Benzyna,1500.0,4881.0,50900.0,Mazowieckie
+726,Maserati,Ghibli,2016,Benzyna,30.0,40.0,395000.0,Mazowieckie
+727,BMW,Seria 3 E90,2010,Diesel,2000.0,234000.0,46900.0,Łódzkie
+728,Opel,Mokka,2017,Benzyna,1600.0,15.0,68800.0,Mazowieckie
+729,Renault,Laguna II,2003,Benzyna,2000.0,201660.0,8900.0,Śląskie
+730,Opel,Astra J,2010,Diesel,1700.0,88000.0,29999.0,Mazowieckie
+731,Mini,Cooper S,2014,Benzyna,1995.0,24000.0,68900.0,Kujawsko-pomorskie
+732,Mitsubishi,Space Star II,2015,Benzyna,999.0,6500.0,27200.0,Lubelskie
+733,Škoda,Octavia II,2010,Benzyna,1200.0,38246.0,27900.0,Wielkopolskie
+734,Volkswagen,Polo IV,2002,Benzyna,1198.0,129000.0,8900.0,Śląskie
+735,Volkswagen,Polo V,2012,Diesel,1199.0,112000.0,29500.0,Warmińsko-mazurskie
+736,Fiat,Qubo,2008,Benzyna+LPG,1400.0,157300.0,16700.0,Łódzkie
+737,Mini,Clubman,2016,Benzyna,1499.0,5000.0,119500.0,Pomorskie
+738,Hyundai,Tucson II,2017,Diesel,1685.0,10.0,112000.0,Pomorskie
+739,Audi,A4 B6,2002,Benzyna,1781.0,198787.0,16900.0,Mazowieckie
+740,BMW,X6 F16,2017,Diesel,2993.0,1.0,344000.0,Podkarpackie
+741,Opel,Astra H,2006,Benzyna,1796.0,164000.0,14900.0,Wielkopolskie
+742,Mini,Countryman,2017,Diesel,1995.0,5.0,193500.0,Mazowieckie
+743,BMW,Seria 3 E36,1997,Benzyna,1596.0,176100.0,3900.0,Świętokrzyskie
+744,Opel,Astra J,2013,Diesel,1700.0,169000.0,34500.0,Mazowieckie
+745,Toyota,Yaris III,2015,Benzyna,1300.0,3000.0,55900.0,Śląskie
+746,Honda,Jazz II,2004,Benzyna,1250.0,170000.0,13900.0,Dolnośląskie
+747,Kia,Sportage III,2013,Diesel,2000.0,34930.0,64900.0,Śląskie
+748,Suzuki,Grand Vitara I,2000,Benzyna,2000.0,167000.0,7980.0,Łódzkie
+749,Nissan,Navara,2007,Diesel,2500.0,206000.0,35500.0,Śląskie
+750,Škoda,RAPID,2016,Benzyna,1200.0,3400.0,55900.0,Wielkopolskie
+751,BMW,Seria 1 E87,2011,Diesel,1998.0,160000.0,33900.0,Mazowieckie
+752,Opel,Antara,2012,Benzyna+LPG,2384.0,138300.0,44999.0,Kujawsko-pomorskie
+753,Citroën,C5 III,2014,Diesel,1600.0,149200.0,31500.0,Lubelskie
+754,Honda,CR-V III,2011,Benzyna,1997.0,79300.0,55500.0,Dolnośląskie
+755,Toyota,Yaris III,2016,Benzyna,1497.0,8500.0,68400.0,Mazowieckie
+756,Opel,Astra H,2005,Benzyna,1400.0,156000.0,12900.0,Wielkopolskie
+757,Fiat,Bravo II,2007,Diesel,1900.0,183000.0,20500.0,Małopolskie
+758,BMW,X3 E83,2010,Diesel,1995.0,218000.0,54900.0,Wielkopolskie
+759,Volkswagen,Passat B7,2012,Diesel,1998.0,137000.0,62900.0,Śląskie
+760,Hyundai,i20 II,2016,Benzyna,998.0,7000.0,56900.0,Małopolskie
+761,Mazda,Premacy,2002,Benzyna,1991.0,157800.0,7200.0,Zachodniopomorskie
+762,Fiat,Bravo II,2007,Benzyna,1400.0,139000.0,15400.0,Dolnośląskie
+763,Volkswagen,Passat B7,2011,Diesel,2000.0,270000.0,55000.0,Dolnośląskie
+764,Peugeot,307 I,2002,Benzyna+LPG,2000.0,244000.0,10900.0,Łódzkie
+765,Peugeot,307 II,2006,Diesel,1600.0,133000.0,9900.0,Wielkopolskie
+766,Toyota,RAV4 II,2002,Diesel,1995.0,208000.0,16900.0,Mazowieckie
+767,Ford,Mondeo Mk5,2014,Benzyna,1596.0,59000.0,44000.0,Śląskie
+768,Chevrolet,Camaro,2015,Benzyna,6162.0,40000.0,174900.0,Mazowieckie
+769,Ford,Focus Mk3,2015,Benzyna,1596.0,25586.0,46900.0,Kujawsko-pomorskie
+770,Hyundai,i40,2016,Benzyna,1999.0,2850.0,78900.0,Zachodniopomorskie
+771,Mazda,6 I,2004,Diesel,2000.0,267000.0,8500.0,Zachodniopomorskie
+772,Škoda,Fabia III,2017,Benzyna,1000.0,5.0,59790.0,Pomorskie
+773,Renault,Clio IV,2016,Diesel,1461.0,42050.0,43900.0,Śląskie
+774,Opel,Meriva II,2017,Benzyna,1400.0,1.0,48700.0,Śląskie
+775,Hyundai,I30 II,2013,Benzyna,1600.0,44326.0,42000.0,Małopolskie
+776,Mitsubishi,Outlander II,2008,Diesel,1998.0,224000.0,31000.0,Małopolskie
+777,Opel,Vectra C,2006,Benzyna,1795.0,174456.0,17500.0,Kujawsko-pomorskie
+778,Citroën,C5 III,2011,Diesel,1997.0,245000.0,26999.0,Dolnośląskie
+779,BMW,Seria 5 E60,2006,Diesel,2998.0,296275.0,32500.0,Lubelskie
+780,Opel,Omega B,2000,Benzyna,2200.0,160000.0,8490.0,Łódzkie
+781,Land Rover,Freelander I,2005,Diesel,2000.0,191000.0,19900.0,Mazowieckie
+782,Peugeot,206,2006,Benzyna,1400.0,158000.0,6500.0,Łódzkie
+783,Škoda,Octavia II,2009,Benzyna,1400.0,96000.0,29000.0,Małopolskie
+784,Renault,Koleos,2008,Diesel,1995.0,138000.0,35600.0,Małopolskie
+785,Citroën,C3 II,2010,Benzyna,1400.0,87000.0,19900.0,Wielkopolskie
+786,Mercedes-Benz,Klasa C W204,2007,Diesel,2200.0,281874.0,34900.0,Mazowieckie
+787,Opel,Corsa D,2013,Benzyna,998.0,109451.0,21500.0,Małopolskie
+788,Volkswagen,Passat B8,2016,Diesel,2000.0,42000.0,103900.0,Śląskie
+789,Volkswagen,Golf V,2009,Diesel,1896.0,205780.0,27500.0,Mazowieckie
+790,Volkswagen,Arteon,2017,Diesel,2000.0,1.0,215900.0,Pomorskie
+791,Chevrolet,Aveo,2008,Benzyna,1206.0,94562.0,12500.0,Śląskie
+792,Volvo,V70 III,2008,Benzyna+LPG,1999.0,230420.0,38000.0,Łódzkie
+793,Volkswagen,Golf III,1995,Benzyna,1781.0,59022.0,9900.0,Mazowieckie
+794,Mercedes-Benz,Klasa S W220,2001,Diesel,3200.0,272000.0,15200.0,Śląskie
+795,Opel,Agila A,2003,Benzyna,1000.0,202000.0,4000.0,Zachodniopomorskie
+796,Opel,Combo C,2008,Benzyna+CNG,1600.0,72000.0,16500.0,Podlaskie
+797,Audi,A4 B7,2006,Diesel,1968.0,276663.0,25500.0,Wielkopolskie
+798,Fiat,500,2009,Benzyna,1200.0,170070.0,21900.0,Wielkopolskie
+799,Honda,Accord VIII,2011,Benzyna,1997.0,72990.0,61900.0,Wielkopolskie
+800,Volkswagen,Passat B6,2010,Diesel,1968.0,175000.0,33900.0,Lubelskie
+801,Mini,ONE,2002,Benzyna,1600.0,150000.0,11900.0,Małopolskie
+802,Opel,Astra G,2000,Diesel,1995.0,303000.0,4500.0,Wielkopolskie
+803,Volkswagen,Golf VII,2017,Benzyna,1400.0,22400.0,64900.0,Pomorskie
+804,Volvo,S80 II,2009,Diesel,2000.0,170000.0,44900.0,Mazowieckie
+805,Peugeot,308 T8,2015,Diesel,1600.0,164000.0,39900.0,Podkarpackie
+806,BMW,X1 F48,2017,Benzyna,1998.0,4.0,187900.0,Śląskie
+807,Volkswagen,Passat B8,2017,Diesel,1968.0,10.0,130500.0,Mazowieckie
+808,Volkswagen,Golf VII,2017,Benzyna,1395.0,1.0,86700.0,Mazowieckie
+809,Volkswagen,Golf Plus,2005,Diesel,1900.0,190000.0,18400.0,Świętokrzyskie
+810,Renault,Scenic II,2006,Benzyna,1600.0,156000.0,16900.0,Dolnośląskie
+811,Kia,Cee'd I,2008,Diesel,1582.0,215000.0,14000.0,Kujawsko-pomorskie
+812,Audi,A3 8L,2001,Diesel,1900.0,322000.0,7990.0,Małopolskie
+813,Nissan,Micra K13,2013,Benzyna,1200.0,67000.0,29900.0,Śląskie
+814,Mercedes-Benz,CL C140,1994,Benzyna,6000.0,197000.0,32000.0,Kujawsko-pomorskie
+815,Fiat,Stilo,2004,Benzyna,1596.0,107000.0,6900.0,Wielkopolskie
+816,Jaguar,X-Type,2004,Diesel,2000.0,242000.0,10000.0,Świętokrzyskie
+817,Citroën,C3 II,2010,Benzyna,1400.0,59000.0,22900.0,Mazowieckie
+818,Ford,Focus Mk3,2016,Diesel,1499.0,45412.0,54900.0,Pomorskie
+819,Volvo,S40 II,2005,Benzyna,2400.0,172123.0,17900.0,Mazowieckie
+820,Peugeot,301,2014,Benzyna,1200.0,53000.0,25999.0,Mazowieckie
+821,Citroën,Xsara Picasso,2000,Diesel,1997.0,321000.0,5850.0,Mazowieckie
+822,Volkswagen,Passat B8,2015,Benzyna,1800.0,51000.0,88500.0,Mazowieckie
+823,Volkswagen,Passat B6,2006,Diesel,2000.0,274000.0,22900.0,Mazowieckie
+824,Lexus,GS IV,2012,Benzyna,2500.0,64900.0,104900.0,Mazowieckie
+825,Ford,Focus Mk3,2016,Benzyna,1596.0,8140.0,51900.0,Wielkopolskie
+826,Audi,A4 B7,2007,Diesel,1968.0,223000.0,28900.0,Warmińsko-mazurskie
+827,Audi,Q5 8R,2011,Benzyna,1998.0,130000.0,67500.0,Podkarpackie
+828,BMW,X5 E53,2005,Diesel,3000.0,220402.0,35500.0,Świętokrzyskie
+829,Ford,Focus Mk2,2009,Benzyna,1600.0,161000.0,20900.0,Dolnośląskie
+830,Dodge,Caliber,2009,Benzyna,2400.0,156000.0,35900.0,Świętokrzyskie
+831,Kia,Rio IV,2017,Diesel,1400.0,9.0,56890.0,Pomorskie
+832,Audi,A3 8L,2002,Benzyna,1800.0,235000.0,13500.0,Podkarpackie
+833,Dodge,Journey,2011,Diesel,2000.0,86000.0,38900.0,Mazowieckie
+834,Citroën,C4 Grand Picasso I,2007,Diesel,1997.0,159000.0,18900.0,Śląskie
+835,BMW,M3,2015,Benzyna,2979.0,74581.0,239900.0,Dolnośląskie
+836,Renault,Clio IV,2017,Benzyna,1200.0,1.0,42000.0,Mazowieckie
+837,Renault,Scenic IV,2017,Benzyna,1197.0,1.0,83900.0,Wielkopolskie
+838,Honda,Civic VIII,2006,Benzyna,1800.0,127000.0,25400.0,Śląskie
+839,Toyota,RAV4 IV,2014,Diesel,2000.0,39000.0,99700.0,Łódzkie
+840,BMW,X6 F16,2016,Diesel,2993.0,13000.0,382000.0,Mazowieckie
+841,Suzuki,Vitara I,1992,Benzyna+LPG,1590.0,109000.0,8999.0,Małopolskie
+842,Mini,Cooper S,2006,Benzyna,1598.0,152500.0,30900.0,Wielkopolskie
+843,Volkswagen,Passat B8,2017,Diesel,1968.0,1.0,162500.0,Wielkopolskie
+844,Audi,A4 B7,2006,Benzyna,1984.0,109000.0,29000.0,Kujawsko-pomorskie
+845,Fiat,Bravo II,2010,Benzyna+LPG,1368.0,169000.0,21700.0,Małopolskie
+846,Audi,A4 B5,1999,Diesel,1896.0,320000.0,6800.0,Kujawsko-pomorskie
+847,Renault,Clio IV,2017,Benzyna,898.0,5.0,48700.0,Małopolskie
+848,Volkswagen,Golf Plus,2005,Diesel,1897.0,230000.0,14900.0,Dolnośląskie
+849,Peugeot,308 T7,2011,Diesel,1560.0,119000.0,28900.0,Lubuskie
+850,Hyundai,ix35,2011.0,Benzyna,1600.0,57597.0,51999.0,Zachodniopomorskie
+851,Citroën,C4 I,2007,Diesel,1600.0,188000.0,14500.0,Wielkopolskie
+852,Citroën,C4 Grand Picasso I,2008,Diesel,1560.0,170000.0,18900.0,Dolnośląskie
+853,Peugeot,3008 I,2009,Benzyna,1600.0,148000.0,30986.0,Małopolskie
+854,Volvo,S40 II,2007,Diesel,1600.0,236000.0,24900.0,Mazowieckie
+855,Land Rover,Range Rover Sport II,2016,Benzyna,4999.0,20000.0,529900.0,Mazowieckie
+856,Honda,HR-V II,2017,Benzyna,1500.0,1.0,93800.0,Mazowieckie
+857,Škoda,Octavia II,2010,Benzyna,1390.0,128680.0,26000.0,Małopolskie
+858,Peugeot,307 I,2003,Diesel,2000.0,214000.0,8900.0,Mazowieckie
+859,Volvo,V50,2005,Diesel,2000.0,215000.0,14900.0,Łódzkie
+860,Nissan,Primera P12,2002,Benzyna,1800.0,62360.0,7999.0,Łódzkie
+861,Mercedes-Benz,Klasa E W210,1997,Benzyna+LPG,2799.0,264173.0,6000.0,Dolnośląskie
+862,Peugeot,208,2017,Benzyna,1199.0,3300.0,47900.0,Śląskie
+863,Hyundai,Santa Fe I,2005,Benzyna,2351.0,128000.0,15500.0,Śląskie
+864,Opel,Astra H,2006,Diesel,1910.0,204000.0,14000.0,Śląskie
+865,Volkswagen,Caddy III,2006,Benzyna+LPG,2000.0,183900.0,18400.0,Podkarpackie
+866,Dodge,Caravan III,2006,Benzyna+LPG,2429.0,114500.0,10000.0,Podkarpackie
+867,Toyota,Auris II,2014,Diesel,2000.0,180000.0,45900.0,Dolnośląskie
+868,Audi,A5 8T,2016,Diesel,1968.0,1640.0,197900.0,Małopolskie
+869,Nissan,Primera P12,2004,Benzyna,1995.0,142000.0,10900.0,Warmińsko-mazurskie
+870,Kia,Rio III,2012,Diesel,1100.0,66000.0,28800.0,Łódzkie
+871,Renault,Laguna III,2014,Diesel,1500.0,139245.0,32900.0,Opolskie
+872,Honda,Accord VIII,2009,Benzyna,2000.0,167000.0,39444.0,Śląskie
+873,Fiat,500L,2013,Diesel,1598.0,73000.0,49990.0,Mazowieckie
+874,Peugeot,307 I,2004,Diesel,2000.0,190000.0,8900.0,Mazowieckie
+875,Audi,A6 C7,2012,Diesel,3000.0,187000.0,56900.0,Małopolskie
+876,Jeep,Wrangler II,2004,Benzyna,4000.0,186000.0,50000.0,Podkarpackie
+877,Mazda,5 I,2006,Diesel,1998.0,299000.0,15400.0,Opolskie
+878,Opel,Vectra C,2008,Diesel,1910.0,198000.0,19999.0,Dolnośląskie
+879,Peugeot,301,2017,Benzyna,1587.0,231.0,61900.0,Mazowieckie
+880,Opel,Astra G,2005,Diesel,1686.0,187000.0,7300.0,Śląskie
+881,Dodge,Caliber,2011,Benzyna,1800.0,139000.0,24999.0,Wielkopolskie
+882,Renault,Scenic II,2004,Diesel,1900.0,190250.0,7500.0,Małopolskie
+883,Mercedes-Benz,Klasa E W211,2004,Diesel,3200.0,225000.0,20900.0,Dolnośląskie
+884,Nissan,Qashqai I,2010,Benzyna,1600.0,124000.0,41900.0,Mazowieckie
+885,Citroën,C5 III,2009,Diesel,1560.0,257000.0,24500.0,Opolskie
+886,Seat,Ibiza IV,2011,Diesel,1600.0,105000.0,24900.0,Pomorskie
+887,BMW,X3 F25,2017,Diesel,1995.0,15000.0,186000.0,Śląskie
+888,Fiat,Sedici,2007,Diesel,1900.0,162000.0,18900.0,Małopolskie
+889,Nissan,Juke,2017,Benzyna,1200.0,1.0,65000.0,Mazowieckie
+890,Audi,A6 C7,2016,Diesel,2000.0,1.0,203431.0,Pomorskie
+891,Škoda,Octavia II,2009,Benzyna,1800.0,165000.0,27500.0,Dolnośląskie
+892,Volkswagen,Phaeton,2005,Diesel,3000.0,245000.0,27300.0,Dolnośląskie
+893,Mercedes-Benz,SLK R171,2005,Benzyna,2000.0,175000.0,27900.0,Pomorskie
+894,Audi,A4 B9,2016.0,Diesel,2000.0,18000.0,170000.0,Mazowieckie
+895,Ford,Focus Mk2,2008,Diesel,1560.0,149000.0,20900.0,Śląskie
+896,Kia,Cee'd I,2009,Benzyna,1400.0,181000.0,21900.0,Mazowieckie
+897,Suzuki,Grand Vitara II,2008,Diesel,1870.0,146100.0,32600.0,Śląskie
+898,Ford,S-Max I,2010,Diesel,2000.0,172000.0,45900.0,Podkarpackie
+899,Fiat,500L,2017,Benzyna,1400.0,5.0,54850.0,Mazowieckie
+900,Audi,A6 C7,2016,Diesel,2967.0,31000.0,189000.0,Śląskie
+901,Seat,Ibiza II,2001,Benzyna,1400.0,178524.0,4700.0,Podkarpackie
+902,BMW,Seria 3 E90,2006,Benzyna,1995.0,177655.0,23400.0,Śląskie
+903,Volkswagen,Passat B6,2007,Diesel,2000.0,219700.0,22900.0,Łódzkie
+904,Toyota,Yaris III,2013,Diesel,1400.0,58394.0,34900.0,Mazowieckie
+905,Ford,Focus Mk3,2015,Benzyna,1596.0,37840.0,45700.0,Wielkopolskie
+906,Opel,Astra G,2008,Benzyna,1364.0,208927.0,14999.0,Śląskie
+907,Renault,Laguna II,2006,Diesel,2000.0,185000.0,14900.0,Mazowieckie
+908,Renault,Kadjar,2016,Benzyna,1197.0,333.0,82900.0,Dolnośląskie
+909,Hyundai,Getz,2005,Benzyna,1086.0,130000.0,7500.0,Dolnośląskie
+910,Lexus,IS III,2015,Hybryda,2500.0,8000.0,95000.0,Wielkopolskie
+911,Renault,Grand Scenic II,2005,Diesel,1900.0,260000.0,9000.0,Śląskie
+912,Nissan,Qashqai I,2007,Benzyna,1600.0,155000.0,31900.0,Mazowieckie
+913,Fiat,Seicento,2003,Benzyna,1100.0,59000.0,4900.0,Małopolskie
+914,Škoda,Octavia I,1999,Diesel,1900.0,185000.0,6900.0,Podlaskie
+915,Volkswagen,Passat CC,2009,Benzyna,2000.0,179877.0,38900.0,Zachodniopomorskie
+916,Opel,Tigra II,2005,Benzyna,1800.0,148000.0,11900.0,Mazowieckie
+917,Volkswagen,Phaeton,2006,Diesel,3000.0,210000.0,35000.0,Dolnośląskie
+918,Volkswagen,Passat B7,2013,Diesel,1969.0,176221.0,52000.0,Wielkopolskie
+919,Daihatsu,Terios,2007,Benzyna,1595.0,105060.0,25900.0,Mazowieckie
+920,Honda,Civic X,2017,Benzyna,988.0,1.0,79500.0,Śląskie
+921,Volkswagen,Tiguan I,2009,Diesel,2000.0,136000.0,46900.0,Pomorskie
+922,Volkswagen,Passat B6,2006,Diesel,1900.0,280000.0,19900.0,Małopolskie
+923,BMW,Seria 1 E87,2008,Diesel,2000.0,184000.0,29900.0,Małopolskie
+924,BMW,Seria 4,2014,Diesel,2000.0,113000.0,118900.0,Kujawsko-pomorskie
+925,Opel,Astra J,2010,Benzyna,1600.0,91000.0,30950.0,Pomorskie
+926,Toyota,Auris II,2016,Benzyna,1598.0,30121.0,64900.0,Mazowieckie
+927,Opel,Corsa D,2010,Diesel,1300.0,98214.0,15900.0,Wielkopolskie
+928,Ford,S-Max I,2012,Diesel,1997.0,213000.0,59900.0,Wielkopolskie
+929,Škoda,Fabia II,2008,Benzyna,1400.0,147000.0,17400.0,Śląskie
+930,Škoda,Fabia III,2017,Benzyna+LPG,1000.0,5.0,46800.0,Mazowieckie
+931,Saab,9-3 II,2008,Diesel,1900.0,159000.0,23900.0,Zachodniopomorskie
+932,Mercedes-Benz,GLK GLK,2015,Diesel,2143.0,112345.0,149900.0,Małopolskie
+933,Ford,Mondeo Mk4,2014,Diesel,1997.0,126279.0,52900.0,Pomorskie
+934,BMW,X1 F48,2017,Diesel,1995.0,5.0,189974.0,Podlaskie
+935,Chevrolet,Captiva,2007,Diesel,2000.0,200000.0,27900.0,Mazowieckie
+936,Mercedes-Benz,ML W164,2006,Diesel,2987.0,175000.0,57900.0,Śląskie
+937,Peugeot,307 I,2004,Diesel,1997.0,230754.0,7500.0,Podkarpackie
+938,Renault,Megane III,2014,Diesel,1461.0,157000.0,36501.0,Dolnośląskie
+939,Opel,Vectra C,2005,Diesel,1910.0,154165.0,12500.0,Kujawsko-pomorskie
+940,Mercedes-Benz,GLK GLK,2014,Benzyna,1991.0,36004.0,135000.0,Śląskie
+941,Ford,Fiesta Mk7,2012,Benzyna,1250.0,67000.0,26950.0,Dolnośląskie
+942,Kia,Venga,2010,Diesel,1396.0,169000.0,25500.0,Śląskie
+943,Mazda,626 V,2001,Benzyna,1800.0,204000.0,5300.0,Lubuskie
+944,Fiat,Bravo II,2009,Diesel,1598.0,160000.0,19900.0,Mazowieckie
+945,Suzuki,Ignis,2017,Benzyna,1242.0,1.0,57990.0,Dolnośląskie
+946,Volkswagen,Golf VII,2017,Benzyna,1395.0,1.0,81500.0,Kujawsko-pomorskie
+947,Ford,C-MAX II,2017,Benzyna,1600.0,7.0,76900.0,Lubuskie
+948,Ford,Mondeo Mk4,2011,Diesel,1998.0,227000.0,28999.0,Zachodniopomorskie
+949,Volvo,V50,2009,Diesel,1600.0,226000.0,24500.0,Wielkopolskie
+950,BMW,Seria 5 E39,2000,Benzyna,2171.0,289200.0,21500.0,Warmińsko-mazurskie
+951,SsangYong,Tivoli,2016.0,Benzyna,1597.0,1.0,65900.0,Mazowieckie
+952,Kia,Soul I,2010,Diesel,1600.0,195000.0,23900.0,Wielkopolskie
+953,Kia,Cee'd II,2016,Benzyna,1591.0,19465.0,71900.0,Małopolskie
+954,Audi,A4 B8,2009,Diesel,1968.0,193000.0,37700.0,Opolskie
+955,Ford,Mondeo Mk4,2009,Diesel,1753.0,175000.0,28000.0,Śląskie
+956,Mercedes-Benz,Klasa E W213,2017,Diesel,1950.0,13.0,271047.0,Pomorskie
+957,Škoda,Superb III,2016,Benzyna,1984.0,7000.0,139900.0,Śląskie
+958,Audi,A4 B6,2003,Diesel,2500.0,256000.0,13500.0,Mazowieckie
+959,Mercedes-Benz,Klasa B W245,2006,Benzyna,2000.0,146000.0,22900.0,Kujawsko-pomorskie
+960,Ford,C-MAX I,2004,Benzyna+LPG,1800.0,153000.0,12900.0,Łódzkie
+961,Fiat,500,2008,Benzyna,1200.0,162000.0,16900.0,Podkarpackie
+962,Volkswagen,Passat B5,2003,Benzyna+LPG,1984.0,223000.0,12900.0,Dolnośląskie
+963,Opel,Meriva I,2004,Benzyna,1598.0,99000.0,10700.0,Łódzkie
+964,Seat,Altea,2005,Benzyna,1600.0,160000.0,18900.0,Śląskie
+965,Peugeot,Partner I,2003,Benzyna,1587.0,199000.0,9890.0,Wielkopolskie
+966,Nissan,Note I,2007,Diesel,1500.0,192047.0,12900.0,Śląskie
+967,Audi,A6 C7,2017,Diesel,1968.0,10.0,198660.0,Warmińsko-mazurskie
+968,Citroën,C5 III,2008,Diesel,1600.0,185000.0,26800.0,Podlaskie
+969,Mitsubishi,ASX,2012,Benzyna,1600.0,121000.0,42900.0,Lubelskie
+970,Toyota,Avensis III,2014,Benzyna,1800.0,36680.0,59900.0,Pomorskie
+971,Mercedes-Benz,Klasa E W211,2003,Diesel,2685.0,441000.0,16900.0,Lubuskie
+972,Nissan,Qashqai I,2012,Benzyna,1600.0,118000.0,44500.0,Wielkopolskie
+973,Nissan,Note I,2009,Benzyna,1598.0,168940.0,18900.0,Mazowieckie
+974,Lexus,GS III,2009,Benzyna,3498.0,145260.0,55900.0,Dolnośląskie
+975,Opel,Astra G,1998,Benzyna+LPG,1400.0,180500.0,4500.0,Lubelskie
+976,Mercedes-Benz,Klasa C W205,2015,Benzyna,1595.0,19780.0,149900.0,Dolnośląskie
+977,Renault,Clio III,2011,Benzyna,1149.0,67000.0,17700.0,Dolnośląskie
+978,Škoda,Fabia II,2014,Diesel,1598.0,70776.0,29900.0,Dolnośląskie
+979,Mercedes-Benz,SL R230,2003,Benzyna,3724.0,67175.0,79000.0,Śląskie
+980,BMW,Seria 3 E90,2006,Benzyna,1999.0,164000.0,27900.0,Lubelskie
+981,Opel,Signum,2007,Benzyna,1796.0,163400.0,20999.0,Wielkopolskie
+982,BMW,Seria 5 E60,2006,Diesel,2993.0,253628.0,39999.0,Podkarpackie
+983,Volvo,C30,2007,Diesel,1600.0,177654.0,18900.0,Mazowieckie
+984,Renault,Laguna II,2001,Benzyna,1598.0,154000.0,5900.0,Wielkopolskie
+985,Fiat,500,2017,Benzyna,1368.0,500.0,74900.0,Mazowieckie
+986,Toyota,Avensis III,2010,Diesel,1998.0,96000.0,41900.0,Łódzkie
+987,Toyota,Camry,1992,Benzyna,2164.0,137933.0,16000.0,Śląskie
+988,BMW,M2,2017,Benzyna,2979.0,4000.0,271976.0,Małopolskie
+989,BMW,Seria 5 E39,2002,Diesel,2926.0,404000.0,14900.0,Dolnośląskie
+990,Mercedes-Benz,Klasa S W126,1986,Benzyna+LPG,2600.0,336000.0,21500.0,Świętokrzyskie
+991,Chevrolet,Cruze,2010.0,Benzyna,1598.0,7560.0,21900.0,Warmińsko-mazurskie
+992,Renault,Clio IV,2017,Benzyna,898.0,1.0,58000.0,Śląskie
+993,Fiat,Tipo II,2017,Benzyna,1400.0,2.0,47350.0,Mazowieckie
+994,Fiat,Bravo II,2007,Diesel,1910.0,217200.0,18900.0,Świętokrzyskie
+995,Alfa Romeo,159,2009,Diesel,2387.0,182000.0,33900.0,Małopolskie
+996,Škoda,Fabia II,2012,Benzyna,1200.0,42700.0,25400.0,Lubelskie
+997,Renault,Modus,2004,Benzyna,1200.0,168111.0,10900.0,Łódzkie
+998,Audi,A3 8L,2000,Benzyna,1595.0,226500.0,5400.0,Małopolskie
+999,Volvo,XC 60 I,2016,Diesel,1969.0,13617.0,136900.0,Małopolskie
