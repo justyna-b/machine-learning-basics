@@ -1,0 +1,1 @@
+Unicode string object - ten tekst zostanie konwertowany na obiekt zrozumiały dla spacy
