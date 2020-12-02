@@ -1,4 +1,4 @@
-# WOKR WITH FILES IN PYTHON
+# WORK WITH FILES IN PYTHON
 
 Open file:
 
@@ -51,7 +51,7 @@ Save text file in reversed order
 
 ```bash
 with open('filename.txt', 'w') as writer:
-    for breed in reversed(dog_breeds):
-        writer.write(breed)
+    for line in reversed(filename):
+        writer.write(line)
 ```
 
