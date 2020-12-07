@@ -10,7 +10,7 @@ json.dump(data, write_file)
 
 Save data as String value:
 
-``bash
+```bash
 json.dumps(data)
 ```
 This function can receive argument indent=number. Thanks to that, you can set the indentation by given number of space chars.
