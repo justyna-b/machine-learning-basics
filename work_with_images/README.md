@@ -41,3 +41,28 @@
 ![text](./cv2photos/text.png)
 
 
+
+## SKALA SZAROŚCI
+
+![gray](./cv2photos/gray.png)
+
+## DETEKCJA KRAWĘDZI
+
+![edges](./cv2photos/edged.png)
+
+## TRESHOLDING
+
+![tresh](./cv2photos/tresh.png)
+
+## DETEKCJA I ZAZNACZANIE KRAWĘDZI
+
+![contours](./cv2photos/contours.png)
+
+## EROZJA PIKSELI DLA ZADANEJ ITERACJI
+
+![eroded](./cv2photos/eroded.png)
+
+## MASKOWANIE
+
+![output](./cv2photos/output.png)
+
