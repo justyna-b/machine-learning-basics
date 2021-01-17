@@ -16,7 +16,7 @@ roi = image[160:320, 310:440]
 cv2.imshow("ROI", roi)
 cv2.waitKey(0)
 
-resized = cv2.resize(image, (200, 200))
+resized = cv2.resize(image, (300, 200))
 cv2.imshow("Fixed Resizing", resized)
 cv2.waitKey(0)
 
